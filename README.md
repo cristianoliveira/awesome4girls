@@ -1,5 +1,5 @@
 # awesome4girls
-Curated list of inclusive events/projects for women in the tech area. :rose: :computer: :gift_heart:
+Curated list of inclusive events/projects/others for women in the tech area. :rose: :computer: :gift_heart:
 
 ## Javascript
   - [Js4Girls](http://js4girls.com/)
