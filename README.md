@@ -29,5 +29,5 @@ Curated list of inclusive events/projects for women in the tech area. :rose: :co
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
 ## Jobs
-  - [Women in Tech](http://www.womenintechnology.co.uk/
+  - [Women in Tech](http://www.womenintechnology.co.uk/)
   - [Girl Develop It](https://www.girldevelopit.com/)
