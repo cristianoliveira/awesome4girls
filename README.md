@@ -16,4 +16,7 @@ Curated list of inclusive events/projects for women in the tech area. :rose: :co
    **Description:** An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
 ## PHP
+ - [PHPWomen](https://phpwomen.org/)
+ 
+   **Description:** We're an inclusive, global user group providing a support network within the PHP community.
  
