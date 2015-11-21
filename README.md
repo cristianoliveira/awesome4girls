@@ -20,6 +20,11 @@ Curated list of inclusive events/projects/others for women in the tech area. :ro
  
     **Description:** An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
+  - [Django Girls](https://djangogirls.org/)
+  
+    **Description:** We want to inspire women to fall in love with programming.
+We organize free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
+
 ## PHP
  - [PHPWomen](https://phpwomen.org/)
  
