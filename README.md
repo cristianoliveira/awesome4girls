@@ -1,6 +1,7 @@
 # awesome4girls
 Curated list of inclusive events/projects/others for women in the tech area. :rose: :computer: :gift_heart:
 
+# Meetups/Events
 ## Javascript
   - [Js4Girls](http://js4girls.com/)
   
@@ -26,9 +27,14 @@ Curated list of inclusive events/projects/others for women in the tech area. :ro
 We organize free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
 
 ## PHP
- - [PHPWomen](https://phpwomen.org/)
+  - [PHPWomen](https://phpwomen.org/)
  
-   **Description:** We're an inclusive, global user group providing a support network within the PHP community.
+    **Description:** We're an inclusive, global user group providing a support network within the PHP community.
+
+## Others iniciatives
+  - [Women Who Code](https://www.womenwhocode.com)
+  
+    **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
 # Others
  
