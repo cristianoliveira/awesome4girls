@@ -35,7 +35,7 @@ We believe that open source is the future of technology—and that it's time to 
 
 ## Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology. 
-  - [She started it](https://www.facebook.com/SheStartedIt): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
+  - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/)
