@@ -34,7 +34,7 @@ Curated list of inclusive events/projects for women in the tech area. :rose: :co
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
 ## Documentaries/Movies
-  - (Code Girls)[http://www.codegirlmovie.com/]: Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology. 
+  - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology. 
 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/)
