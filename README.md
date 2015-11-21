@@ -1,5 +1,5 @@
 # awesome4girls
-Curated list of events/projects to include women to the tech area. :rose: :computer: :gift_heart:
+Curated list of inclusive events/projects for women in the tech area. :rose: :computer: :gift_heart:
 
 ## Ruby
  - [RailsGirls](http://railsgirls.com/)
