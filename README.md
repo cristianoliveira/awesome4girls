@@ -20,3 +20,8 @@ Curated list of inclusive events/projects for women in the tech area. :rose: :co
  
    **Description:** We're an inclusive, global user group providing a support network within the PHP community.
  
+## Awards
+ - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
+ 
+   **Description:** Honor. Celebrate. Inspire.
+We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
