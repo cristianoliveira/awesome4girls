@@ -1,6 +1,11 @@
 # awesome4girls
 Curated list of inclusive events/projects for women in the tech area. :rose: :computer: :gift_heart:
 
+## Javascript
+  - [Js4Girls](http://js4girls.com/)
+  
+    **Description:** A brasilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
+
 ## Ruby
   - [RailsGirls](http://railsgirls.com/)
    
