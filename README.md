@@ -3,7 +3,7 @@ Curated list of inclusive events/projects/others for women in the tech area. :ro
 
 # Meetups/Events
 ## Javascript
-  - [Js4Girls](http://js4girls.com/) *(PT-BR only)*
+  - [Js4Girls](http://js4girls.com/) *Lang: PT-BR only*
 
     **Description:** A brasilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
@@ -32,11 +32,15 @@ We organize free Python and Django workshops, create open sourced online tutoria
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
 ## General
+  - [App Camp 4 Girls](http://appcamp4girls.com/)
+   
+    **Description:**  App Camp For Girls is a place where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
+
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
     **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
-  - [Code Girl](http://www.euvou.codegirl.com.br/) *(PT-BR only)*
+  - [Code Girl](http://www.euvou.codegirl.com.br/) *Lang: PT-BR*
 
     **Description:** Event for women with papers and classes to inspire the female public to the tech area.
 
