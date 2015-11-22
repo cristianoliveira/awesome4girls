@@ -65,3 +65,5 @@ We believe that open source is the future of technology—and that it's time to 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
