@@ -32,6 +32,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
 ## Others iniciatives
+  - [Code Girl](http://www.euvou.codegirl.com.br/) **PT-BR Only**
+   
+    **Description:** Event for women with papers and classes to inspire the female public to the tech area. 
+
   - [Women Who Code](https://www.womenwhocode.com)
   
     **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
