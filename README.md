@@ -70,7 +70,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** We facilitate hands-on technology-centric events to empower, support, and increase the confidence of women and girls.  Through our events, we build community, empower participants to see themselves as leaders, and provide networking and mentoring opportunities in the rapidly growing high tech industry.
 
-# Others Iniciatives
+# Others Initiatives
 
 ## Awards
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
@@ -86,6 +86,11 @@ We believe that open source is the future of technology—and that it's time to 
 ## Communities/Groups
   - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix): is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute
 
+  - [Debian Women](https://www.debian.org/women/): The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian. 
+  - [Womoz](http://www.womoz.org/blog/): The Womoz Blog. Program updates and news from the women and mozilla project.
+
+  - [Ubuntu Women](http://wiki.ubuntu-women.org/): The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
+  
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/)
   - [Girl Develop It](https://www.girldevelopit.com/)
