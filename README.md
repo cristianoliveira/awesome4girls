@@ -46,7 +46,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** Event for women with papers and classes to inspire the female public to the tech area.
 
-  - [Women Who Code](https://www.womenwhocode.com)
+  - [Women Who Code](https://www.womenwhocode.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
     
@@ -59,6 +59,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
   
     **Description:** We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
+
+  - [Chick Tech](http://chicktech.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+  **Description:** We facilitate hands-on technology-centric events to empower, support, and increase the confidence of women and girls.  Through our events, we build community, empower participants to see themselves as leaders, and provide networking and mentoring opportunities in the rapidly growing high tech industry.
 
 # Others Iniciatives
 
