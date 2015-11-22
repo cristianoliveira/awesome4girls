@@ -32,9 +32,13 @@ We organize free Python and Django workshops, create open sourced online tutoria
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
 ## Others iniciatives
+  - [Black Girls Code](http://www.blackgirlscode.com/)
+   
+    **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+  
   - [Code Girl](http://www.euvou.codegirl.com.br/) *(PT-BR only)*
    
-    **Description:** Event for women with papers and classes to inspire the female public to the tech area. 
+    **Description:** Event for women with papers and classes to inspire the female public to the tech area.
 
   - [Women Who Code](https://www.womenwhocode.com)
   
