@@ -40,7 +40,9 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
-  - [Code Girl](http://www.euvou.codegirl.com.br/) *Lang: PT-BR*
+  - [Code Girl](http://www.euvou.codegirl.com.br/) 
+*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+*Lang: PT-BR only*
 
     **Description:** Event for women with papers and classes to inspire the female public to the tech area.
 
@@ -48,11 +50,13 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
     
-  - [Code First Girl](http://www.codefirstgirls.org.uk/courses.html) *Loc: UK*
+  - [Code First Girl](http://www.codefirstgirls.org.uk/courses.html)
+*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
   
     **Description:** Girls runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
 
-  - [Ladies Learning Code](http://ladieslearningcode.com/) *Loc: CA*
+  - [Ladies Learning Code](http://ladieslearningcode.com/)
+*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
   
     **Description:** We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
 
