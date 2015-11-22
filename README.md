@@ -7,6 +7,12 @@ Curated list of inclusive events/projects/others for women in the tech area. :ro
 
     **Description:** A brasilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
+## Go-lang
+  - [Women Who Go](http://www.womenwhogo.org/)
+  
+    **Description:** We are women in the #golang community. [From Tweeter](https://twitter.com/womenwhogo)
+
+
 ## Ruby
   - [RailsGirls](http://railsgirls.com/)
 
