@@ -102,7 +102,11 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [WITI](http://www.witi.com/)
 
-  **Description:** is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+  **Description:** WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+
+  - [Ladies that UX](http://ladiesthatux.com/)
+
+  **Description:** Ladies that UX is a monthly meet up that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
 
 # Others Initiatives
 
