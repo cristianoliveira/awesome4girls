@@ -52,6 +52,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** Ladies that UX is a monthly meet up that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
 
+  - [XX-UX](http://www.xxux.org/)
+
+    **Description:** The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
+
 ## General/Summits/Conferences
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
@@ -132,6 +136,10 @@ We believe that open source is the future of technology—and that it's time to 
   - [Ubuntu Women](http://wiki.ubuntu-women.org/): The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
   - [KDE Women](https://community.kde.org/KDE_Women): KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+
+  - [Lambda Ladies](http://www.lambdaladies.com/)
+
+  **Description:** Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
