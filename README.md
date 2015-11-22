@@ -31,7 +31,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
  
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
-## Others iniciatives
+## General
   - [Black Girls Code](http://www.blackgirlscode.com/)
    
     **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
@@ -44,7 +44,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
   
     **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-# Others
+# Others Iniciatives
  
 ## Awards
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
@@ -53,7 +53,8 @@ We organize free Python and Django workshops, create open sourced online tutoria
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
 ## Documentaries/Movies
-  - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology. 
+  - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
+  
   - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
 ## Jobs
