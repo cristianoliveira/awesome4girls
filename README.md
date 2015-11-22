@@ -122,11 +122,6 @@ We organize free Python and Django workshops, create open sourced online tutoria
     **Description:** Honor. Celebrate. Inspire.
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
-## Documentaries/Movies
-  - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
-
-  - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
-
 ## Communities/Groups
   - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix): is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute
 
@@ -137,9 +132,12 @@ We believe that open source is the future of technology—and that it's time to 
 
   - [KDE Women](https://community.kde.org/KDE_Women): KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
 
-  - [Lambda Ladies](http://www.lambdaladies.com/)
+  - [Lambda Ladies](http://www.lambdaladies.com/): Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
 
-  **Description:** Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+## Documentaries/Movies
+  - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
+
+  - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
