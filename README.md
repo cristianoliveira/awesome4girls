@@ -78,6 +78,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
 
+  - [Women Who Tech](http://womenwhotech.com/)
+
+  **Description:** Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+
 # Others Initiatives
 
 ## Awards
