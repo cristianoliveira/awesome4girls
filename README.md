@@ -136,7 +136,7 @@ We believe that open source is the future of technology—and that it's time to 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-  - [utreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
+  - [Outreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
 
 
 ## License
