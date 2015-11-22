@@ -47,6 +47,11 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
+## UX
+  - [Ladies that UX](http://ladiesthatux.com/)
+
+    **Description:** Ladies that UX is a monthly meet up that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
+
 ## General/Summits/Conferences
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
@@ -104,9 +109,6 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
 
-  - [Ladies that UX](http://ladiesthatux.com/)
-
-  **Description:** Ladies that UX is a monthly meet up that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
 
 # Others Initiatives
 
