@@ -2,6 +2,12 @@
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area. :rose: :computer: :gift_heart:
 
 # Meetups/Events
+
+## Java
+  - [JDuchess](http://www.jduchess.org/)
+
+    **Description:** Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get involved in the greater Java community.  
+
 ## Javascript
   - [Js4Girls](http://js4girls.com/) *Lang: PT-BR only*
 
