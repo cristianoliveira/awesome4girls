@@ -82,6 +82,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
+  - [DIY Girls](http://www.diygirls.org/)
+
+  **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
+
 # Others Initiatives
 
 ## Awards
