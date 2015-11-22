@@ -47,7 +47,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
-## General
+## General/Summits/Conferences
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
     **Description:**  App Camp For Girls is a place where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
@@ -100,6 +100,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
 
+  - [WITI](http://www.witi.com/)
+
+  **Description:** is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+
 # Others Initiatives
 
 ## Awards
@@ -126,7 +130,7 @@ We believe that open source is the future of technology—and that it's time to 
 ## Jobs
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-  - [utreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations. 
+  - [utreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
 
 
 ## License
