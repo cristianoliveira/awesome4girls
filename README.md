@@ -43,6 +43,9 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Women Who Code](https://www.womenwhocode.com)
 
     **Description:** Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+    
+  - [Code First Girl](http://www.codefirstgirls.org.uk/courses.html)
+    **Description:** Girls runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
 
 # Others Iniciatives
 
