@@ -92,6 +92,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
 
+  - [Girl Develop It](https://www.girldevelopit.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+  **Description:** Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+
 # Others Initiatives
 
 ## Awards
@@ -116,8 +120,7 @@ We believe that open source is the future of technology—and that it's time to 
   - [KDE Women](https://community.kde.org/KDE_Women): KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
 
 ## Jobs
-  - [Women in Tech](http://www.womenintechnology.co.uk/)
-  - [Girl Develop It](https://www.girldevelopit.com/)
+  - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
 
 ## License
