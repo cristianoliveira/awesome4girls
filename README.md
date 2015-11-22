@@ -28,6 +28,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     **Description:** Getting more women into Open Source!
 
+  - [Rails Bridge](http://www.railsbridge.org/)
+
+    **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
+
 ## Python
   - [PyLadies](http://www.pyladies.com/)
 
