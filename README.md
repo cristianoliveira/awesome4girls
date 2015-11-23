@@ -9,7 +9,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     **Description:** Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get involved in the greater Java community.  
 
 ## Javascript
-  - [Js4Girls](http://js4girls.com/) *Lang: PT-BR only*
+  - [Js4Girls](http://js4girls.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
 
     **Description:** A brasilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
@@ -66,7 +66,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
     **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
   - [Code Girl](http://www.euvou.codegirl.com.br/)
-*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> |
 *Lang: PT-BR only*
 
     **Description:** Event for women with papers and classes to inspire the female public to the tech area.
