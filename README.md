@@ -147,7 +147,7 @@ We believe that open source is the future of technology—and that it's time to 
 
    **Description:** Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
 
-  - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30">
+  - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> | *Lang: Deutsch Only*
 
     **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
 
