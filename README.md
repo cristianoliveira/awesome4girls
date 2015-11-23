@@ -133,6 +133,10 @@ We believe that open source is the future of technology—and that it's time to 
   - [KDE Women](https://community.kde.org/KDE_Women): KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
 
   - [Lambda Ladies](http://www.lambdaladies.com/): Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+  
+  - [Code Girls](http://codegirls.de/): *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30">
+  
+    **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
 
 ## Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
