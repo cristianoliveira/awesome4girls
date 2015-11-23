@@ -123,19 +123,32 @@ We organize free Python and Django workshops, create open sourced online tutoria
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
 ## Communities/Groups
-  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix): is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute
+  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
 
-  - [Debian Women](https://www.debian.org/women/): The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
-  - [Womoz](http://www.womoz.org/blog/): The Womoz Blog. Program updates and news from the women and mozilla project.
+  **Description:** is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute
 
-  - [Ubuntu Women](http://wiki.ubuntu-women.org/): The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
+  - [Debian Women](https://www.debian.org/women/)
 
-  - [KDE Women](https://community.kde.org/KDE_Women): KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+  **Description:** The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
 
-  - [Lambda Ladies](http://www.lambdaladies.com/): Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
-  
-  - [Code Girls](http://codegirls.de/): *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30">
-  
+  - [Womoz](http://www.womoz.org/blog/)
+
+  **Description:** The Womoz Blog. Program updates and news from the women and mozilla project.
+
+  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
+
+  **Description:** The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
+
+  - [KDE Women](https://community.kde.org/KDE_Women)
+
+   **Description:** KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+
+  - [Lambda Ladies](http://www.lambdaladies.com/)
+
+   **Description:** Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+
+  - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30">
+
     **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
 
 ## Documentaries/Movies
