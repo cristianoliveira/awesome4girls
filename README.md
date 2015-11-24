@@ -11,7 +11,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Javascript
   - [Js4Girls](http://js4girls.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
 
-    **Description:** A brasilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
+    **Description:** A brazilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
 ## Go-lang
   - [Women Who Go](http://www.womenwhogo.org/)
