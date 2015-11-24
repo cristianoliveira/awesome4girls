@@ -34,6 +34,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
 ## Ruby
+  - [Rails Bridge](http://www.railsbridge.org/)
+
+  **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
+
   - [RailsGirls](http://railsgirls.com/)
 
   **Description:** Multinacional community to give tools for girls and women to build their ideas.
@@ -41,11 +45,6 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [RailsGirs Summer of Code](http://railsgirlssummerofcode.org/)
 
   **Description:** Getting more women into Open Source!
-
-  - [Rails Bridge](http://www.railsbridge.org/)
-
-  **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
-
 
 ## UX
   - [Ladies that UX](http://ladiesthatux.com/)
