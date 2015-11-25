@@ -24,8 +24,9 @@ If is not a international event/organization (no english version site) use:
 - Start the bio with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- 
+
 #### About Pull Request
+
 - Make an individual pull request for each suggestion.
 - The pull request and commit should have a useful title. 
 Example: `[category]: some description of content added` for other changes please see: [semantic commits](http://seesparkbox.com/foundry/semantic_commit_messages)
