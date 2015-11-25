@@ -7,9 +7,15 @@ Please ensure your pull request adheres to the following guidelines:
 - A link back to this list from yours, so users can discover more lists, would be appreciated.
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format:
+- Use the following template:
 ```
    [Name](link)
+
+    **Description:** Some awesome description.
+```
+If is not a international event/organization (no english version site) use:
+```
+   [Name](link) *Loc* <country flag from wikipidia>
 
     **Description:** Some awesome description.
 ```
