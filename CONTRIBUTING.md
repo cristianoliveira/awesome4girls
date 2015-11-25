@@ -13,7 +13,7 @@ Please ensure your pull request adheres to the following guidelines:
 
     **Description:** Some awesome description.
 ```
-If is not a international event/organization (no english version site) use:
+If is not an international event/organization (no english version site) use:
 ```
    [Name](link) *Loc* <country flag from wikipidia>
 
