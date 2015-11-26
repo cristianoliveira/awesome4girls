@@ -86,10 +86,14 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [DIY Girls](http://www.diygirls.org/)
 
   **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
-
+  
   - [Girl Develop It](https://www.girldevelopit.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
     
   **Description:** Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
+
+  - [Girls In Tech](http://www.girlsintech.org/)
+
+  **Description:** GIT is a global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
 
   - [Ladies Learning Code](http://ladieslearningcode.com/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
