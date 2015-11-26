@@ -119,6 +119,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Women Who Tech](http://womenwhotech.com/)
 
     **Description:** Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+    
+  - [Ladies Who Code](https://twitter.com/ladieswhocode)
+  
+  **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
 # Others Initiatives
 
