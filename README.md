@@ -99,6 +99,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
 
   **Description:** We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
+  
+  - [Ladies Who Code](http://www.ladieswhocode.com/)
+  
+  **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
   - [She's Geeky](http://shesgeeky.org/)
 
@@ -119,10 +123,6 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Women Who Tech](http://womenwhotech.com/)
 
     **Description:** Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-    
-  - [Ladies Who Code](https://twitter.com/ladieswhocode)
-  
-  **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
 # Others Initiatives
 
