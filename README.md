@@ -169,7 +169,9 @@ We believe that open source is the future of technology—and that it's time to 
   - [Code Girls](http://www.codegirlmovie.com/): Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
 
   - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
-
+  
+  - [She++ The Documentary](http://www.sheplusplus.org/blog/she-the-documentary/): The Documentary (12 min: TV-14 DL; Releasing April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek
+  
 ## Jobs
   - [Outreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
   
