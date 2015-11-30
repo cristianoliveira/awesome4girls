@@ -116,6 +116,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** We are a 501(c)3 nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
   
+  - [Technovation](http://www.technovationchallenge.org/)
+
+  **Description:** The global technology entrepreneurship program for girls. Students work in teams to develop mobile app “startups” to solve real problems in their communities.
+  
   - [WITI](http://www.witi.com/)
 
   **Description:** WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
