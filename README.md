@@ -97,7 +97,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
   
   - [Girls Who Code](http://girlswhocode.com/)
   
-  **Description:** We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
+  **Description:** We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
 
   - [Ladies Learning Code](http://ladieslearningcode.com/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
