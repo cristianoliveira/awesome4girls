@@ -94,6 +94,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Girls In Tech](http://www.girlsintech.org/)
 
   **Description:** GIT is a global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
+  
+  - [Girls Who Code](http://girlswhocode.com/)
+  
+  **Description:** We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
 
   - [Ladies Learning Code](http://ladieslearningcode.com/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
