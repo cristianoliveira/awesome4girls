@@ -107,6 +107,11 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [OS4W](https://os4w.org/) 
 
   **Description:** is a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors. The site features a directory for finding mentors and pair partners as well as a curated list of open source projects with codes of conduct.
+  
+  - [PrograMaria](http://www.programaria.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> |
+*Lang: PT-BR only*
+  
+  **Description:** PrograMaria is a initiative to envolve more girls and women with Tech and Programming. The content production and events are produced under three pilars: Inspire, Discuss and Learn.
 
   - [She's Geeky](http://shesgeeky.org/)
 
