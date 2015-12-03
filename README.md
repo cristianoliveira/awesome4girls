@@ -67,6 +67,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
   **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+  
+  - [Chicas Poderosas](http://www.chicaspoderosas.org/)
+
+  **Description:** Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meetups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
 
   - [Chick Tech](http://chicktech.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
