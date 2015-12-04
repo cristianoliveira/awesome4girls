@@ -112,6 +112,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   
   **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
+  - [Lesbians Who Tech](http://lesbianswhotech.org//)
+  
+  **Description:** Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
+
   - [OS4W](https://os4w.org/) 
 
   **Description:** is a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors. The site features a directory for finding mentors and pair partners as well as a curated list of open source projects with codes of conduct.
