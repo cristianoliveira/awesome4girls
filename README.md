@@ -162,7 +162,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
   **Description:** Honor. Celebrate. Inspire.
 We believe that open source is the future of technology—and that it's time to recognize the contributions women are making.
 
-  - [The Ada Awards](http://adaawards.com/about/)
+  - [The Ada Awards](http://adaawards.com/)
 
   **Description:** The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognise outstanding girls and women in tech, and the organisations who support them in Europe, Africa and beyond.
 
