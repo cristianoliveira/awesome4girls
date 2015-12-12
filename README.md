@@ -4,6 +4,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 # Meetups/Events
 
+## Clojure
+  - [ClojureBridge](http://www.clojurebridge.org)
+
+  **Description:** ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
+
 ## Go-lang
   - [Women Who Go](http://www.womenwhogo.org/)
 
