@@ -93,6 +93,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** Event for women with papers and classes to inspire the female public to the tech area.
 
+  - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
+
+  **Description:** Microsoft is proud to offer technology programs that target youth. This one-day event, held at multiple Microsoft locations worldwide, is designed to provide high school girls with a better understanding of what a career in technology is all about. 
+
   - [DIY Girls](http://www.diygirls.org/)
 
   **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
