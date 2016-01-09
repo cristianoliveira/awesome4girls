@@ -100,6 +100,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [DIY Girls](http://www.diygirls.org/)
 
   **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
+  
+  - [Hackbright Academy](https://hackbrightacademy.com/)
+  
+  **Description:** Hackbright Academy is the leading software engineering school for women founded in San Francisco in 2012. The academy graduates more female engineers than Stanford and UC Berkeley each year.
 
   - [Girl Develop It](https://www.girldevelopit.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -215,7 +219,6 @@ We believe that open source is the future of technology—and that it's time to 
   - [Outreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
 
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
-
 
 ## License
 
