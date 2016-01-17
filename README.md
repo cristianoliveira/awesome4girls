@@ -150,6 +150,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [She++](http://www.sheplusplus.org/)
 
   **Description:** is a social enterprise that empowers women to make their mark on the technology industry. we believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
+  
+  - [SheSharp](http://www.shesharp.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30"> 
+  
+  **Description:** A greek community of people dedicated to promote women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
