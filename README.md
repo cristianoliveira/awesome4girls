@@ -66,6 +66,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   **Description:** The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 # General/Summits/Conferences
+  - [Ada Developers Academy](http://adadevelopersacademy.org/)
+
+  **Description:** A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
+
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
   **Description:**  App Camp For Girls is a place where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
