@@ -169,7 +169,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [WECode](http://www.wecodeharvard.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-  **Description:** WECode 2016 is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
+  **Description:** WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
 
   - [WITI](http://www.witi.com/)
 
