@@ -161,7 +161,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
-  **Description:** We are a 501(c)3 nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+  **Description:** We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
