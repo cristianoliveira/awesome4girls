@@ -159,6 +159,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   
   **Description:** A greek community of people dedicated to promote women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
+  - [SWE](http://we14.swe.org/) 
+  
+  **Description:** The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering, and to be recognized for their life-changing contributions as engineers and leaders. It promotes the anual conference for women engineer.
+
   - [Tech Girlz](http://www.techgirlz.org/)
 
   **Description:** We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
