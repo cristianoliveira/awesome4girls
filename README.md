@@ -137,6 +137,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
   **Description:** Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
+  
+  - [Made with Code](https://www.madewithcode.com/)
+  
+  **Description:** Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills. It revolves primarily around providing online activities for young girls to learn coding on its website.
 
   - [OS4W](https://os4w.org/)
 
