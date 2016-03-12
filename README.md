@@ -77,6 +77,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
+  - [CallbackWomen](http://www.callbackwomen.com/)
+
+  **Description:** The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via [Twitter](https://twitter.com/callbackwomen).
+
   - [Chicas Poderosas](http://www.chicaspoderosas.org/)
 
   **Description:** Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meetups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
@@ -98,14 +102,14 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
-  **Description:** Microsoft is proud to offer technology programs that target youth. This one-day event, held at multiple Microsoft locations worldwide, is designed to provide high school girls with a better understanding of what a career in technology is all about. 
+  **Description:** Microsoft is proud to offer technology programs that target youth. This one-day event, held at multiple Microsoft locations worldwide, is designed to provide high school girls with a better understanding of what a career in technology is all about.
 
   - [DIY Girls](http://www.diygirls.org/)
 
   **Description:** DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
-  
+
   - [Hackbright Academy](https://hackbrightacademy.com/)
-  
+
   **Description:** Hackbright Academy is the leading software engineering school for women founded in San Francisco in 2012. The academy graduates more female engineers than Stanford and UC Berkeley each year.
 
   - [Girl Develop It](https://www.girldevelopit.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
@@ -119,7 +123,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Girls Who Code](http://girlswhocode.com/)
 
   **Description:** We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
-  
+
   - [Global Fund for Women](http://ignite.globalfundforwomen.org/about)
 
   **Description:** IGNITE features stories of women and girls who are leading and innovating in science, technology, engineering and math. The project also highlights the gender gap in technology and advocates for women and girls’ increased access to and control of technologies.
@@ -136,9 +140,9 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
   **Description:** Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
-  
+
   - [Made with Code](https://www.madewithcode.com/)
-  
+
   **Description:** Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills. It revolves primarily around providing online activities for young girls to learn coding on its website.
 
   - [OS4W](https://os4w.org/)
@@ -157,13 +161,13 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [She++](http://www.sheplusplus.org/)
 
   **Description:** is a social enterprise that empowers women to make their mark on the technology industry. we believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
-  
-  - [SheSharp](http://www.shesharp.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30"> 
-  
+
+  - [SheSharp](http://www.shesharp.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+
   **Description:** A greek community of people dedicated to promote women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
-  - [SWE](http://we14.swe.org/) 
-  
+  - [SWE](http://we14.swe.org/)
+
   **Description:** The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering, and to be recognized for their life-changing contributions as engineers and leaders. It promotes the anual conference for women engineer.
 
   - [Tech Girlz](http://www.techgirlz.org/)
@@ -210,7 +214,7 @@ We believe that open source is the future of technology—and that it's time to 
   - [Debian Women](https://www.debian.org/women/)
 
   **Description:** The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
-  
+
   - [Fedora Women](https://fedoraproject.org/wiki/Women)
   **Description:** Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
 
