@@ -216,6 +216,7 @@ We believe that open source is the future of technology—and that it's time to 
   **Description:** The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
 
   - [Fedora Women](https://fedoraproject.org/wiki/Women)
+  
   **Description:** Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
 
   - [KDE Women](https://community.kde.org/KDE_Women)
