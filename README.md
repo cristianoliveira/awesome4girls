@@ -251,6 +251,8 @@ We believe that open source is the future of technology—and that it's time to 
 
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
+  - [PowerToFly](https://www.powertofly.com/): Connecting women with jobs that actually lead to work-life balance. Specializing on the remote work for women. In addition to job board it contains information about time-management, self-efficacy etc.
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
