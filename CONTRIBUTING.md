@@ -1,5 +1,5 @@
 # Contribution Guidelines
-This project is made under a [Code of 
+This project is made under a [Code of
 Conduct](https://github.com/cristianoliveira/awesome4girls/blob/master/CODE_OF_CONDUCT.md). By participating you agree to abide by its terms.
 _____
 Please ensure your pull request adheres to the following guidelines:
@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 ```
 If is not an international event/organization (no english version site) use:
 ```
-   [Name](link) *Loc* <country flag from wikipidia>
+   [Name](link) *Loc* <country flag from wikipedia>
 
     **Description:** Some awesome description.
 ```
@@ -30,7 +30,7 @@ If is not an international event/organization (no english version site) use:
 #### About Pull Request
 
 - Make an individual pull request for each suggestion.
-- The pull request and commit should have a useful title. 
+- The pull request and commit should have a useful title.
 Example: `[category]: some description of content added` for other changes please see: [semantic commits](http://seesparkbox.com/foundry/semantic_commit_messages)
 
 And finally, Thank so much! for your contribution!!
