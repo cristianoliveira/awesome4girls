@@ -16,7 +16,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Java
   - [JDuchess](http://www.jduchess.org/)
 
-  **Description:** Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get involved in the greater Java community.  
+  **Description:** Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get involved in the greater Java community.
 
 ## Javascript
   - [Js-Girls](http://js-girls.org/)
@@ -137,6 +137,12 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
+  - [Lady Talks](http://ladytalks.technology/)
+*Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> |
+*Lang: PT-BR only*
+
+  **Description:** Women talking technology for themselves. Transgender people, transvestites and non-binary are also welcomed.
+
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
   **Description:** Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
@@ -216,7 +222,7 @@ We believe that open source is the future of technology—and that it's time to 
   **Description:** The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
 
   - [Fedora Women](https://fedoraproject.org/wiki/Women)
-  
+
   **Description:** Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
 
   - [KDE Women](https://community.kde.org/KDE_Women)
