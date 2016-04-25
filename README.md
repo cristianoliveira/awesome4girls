@@ -133,7 +133,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
 
-  - [Ladies Of Code](https://www.ladiesofcode.com/) *Loc:* <img src="https://en.wikipedia.org/wiki/Flag_of_France#/media/File:Flag_of_France.svg" alt="France" width="30"> <img src="https://en.wikipedia.org/wiki/Union_Jack#/media/File:Flag_of_the_United_Kingdom.svg" alt="UK" width="30">
+  - [Ladies Of Code](https://www.ladiesofcode.com/)
 
   **Description:** Ladies Of Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
