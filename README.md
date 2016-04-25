@@ -133,9 +133,9 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
 
-  - [Ladies Who Code](http://www.ladieswhocode.com/)
+  - [Ladies Of Code](https://www.ladiesofcode.com/)
 
-  **Description:** Ladies Who Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
+  **Description:** Ladies Of Code brings the brightest female minds together to discuss tech, share ideas and innovate via global meetups.
 
   - [Lady Talks](http://ladytalks.technology/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> |
