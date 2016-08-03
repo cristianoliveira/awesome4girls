@@ -284,7 +284,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [She started it](http://www.shestarteditfilm.com/)
     Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
-  - [She++ The Documentary](http://www.sheplusplus.org/blog/she-the-documentary/)
+  - [She++ The Documentary](http://sheplusplus.org/film/)
     The Documentary (12 min: TV-14 DL; Releasing April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek
 
 ### Jobs
