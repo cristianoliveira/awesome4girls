@@ -76,6 +76,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
   **Description:** To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+  
+  - [Byte Girl](http://bytegirl.com.br/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+
+  **Description:** Byte Girl is a non-profit and open event organized by volunteers focused on female public who likes tech. It has the goal of developing the women empowerment.
 
   - [CallbackWomen](http://www.callbackwomen.com/)
 
