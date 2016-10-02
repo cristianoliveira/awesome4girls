@@ -103,6 +103,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
 *Lang: PT-BR only*
 
   **Description:** Event for women with papers and classes to inspire the female public to the tech area.
+  
+  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+
+  **Description:** Code it Like a Girl organizes workshops that familiarize women with coding, in order for them to obtain valuable technological skills and bridge the gender gap in the IT industry.
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
