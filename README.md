@@ -131,6 +131,10 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Global Fund for Women](http://ignite.globalfundforwomen.org/about)
 
   **Description:** IGNITE features stories of women and girls who are leading and innovating in science, technology, engineering and math. The project also highlights the gender gap in technology and advocates for women and girls’ increased access to and control of technologies.
+  
+    - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
+
+  **Description:** The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 
   - [Ladies Learning Code](http://ladieslearningcode.com/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
