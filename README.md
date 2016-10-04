@@ -26,6 +26,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Js4Girls](http://js4girls.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
 
   **Description:** A brazilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
+  
+  - [NodeGirls](http://nodegirls.io/) 
+  
+  **Description:** We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
 ## Python
   - [Django Girls](https://djangogirls.org/)
