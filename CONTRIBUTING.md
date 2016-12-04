@@ -1,26 +1,31 @@
 # Contribution Guidelines
 This project is made under a [Code of
 Conduct](https://github.com/cristianoliveira/awesome4girls/blob/master/CODE_OF_CONDUCT.md). By participating you agree to abide by its terms.
-_____
+
+----
+
 Please ensure your pull request adheres to the following guidelines:
 
 ### About Content
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-- A link back to this list from yours, so users can discover more lists, would be appreciated.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following template:
-```
-   [Name](link)
 
-    **Description:** Some awesome description.
+  - Search previous suggestions before making a new one, as yours may be a duplicate.
+  - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
+  - A link back to this list from yours, so users can discover more lists, would be appreciated.
+  - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+  - Use the following template:
+
 ```
+  - [Name](link)
+    Some awesome description.
+```
+
 If it is not an international event/organization (no english version site) use:
-```
-   [Name](link) *Loc* <country flag from wikipedia>
 
-    **Description:** Some awesome description.
 ```
+  - [Name](link) *Loc* <country flag from wikipedia>
+    Some awesome description.
+```
+
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Start the bio with a capital and end with a full stop/period.
