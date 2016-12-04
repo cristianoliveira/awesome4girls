@@ -26,7 +26,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     js-girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
-  - [Js4Girls](http://js4girls.com/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [Js4Girls](http://js4girls.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     A brazilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
@@ -71,11 +71,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ### General
-  - [Byte Girl](http://bytegirl.com.br/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Byte Girl is a non-profit and open event organized by volunteers focused on female public who likes tech. It has the goal of developing the women empowerment.
 
-  - [Code Girl](http://www.codegirl.com.br/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Event for women with papers and classes to inspire the female public to the tech area.
 
@@ -83,7 +83,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The global technology entrepreneurship program for girls. Students work in teams to develop mobile app “startups” to solve real problems in their communities.
 
-  - [Women Who Code](https://www.womenwhocode.com) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
@@ -109,7 +109,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meetups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
 
-  - [Code First Girl](http://www.codefirstgirls.org.uk) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
+  - [Code First Girl](http://www.codefirstgirls.org.uk) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
 
     Girls runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
 
@@ -121,7 +121,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
 
-  - [Girl Develop It](https://www.girldevelopit.com/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Girl Develop It is a nonprofit organization that provides affordable programs for adult women interested in learning web and software development in a judgment-free environment.
 
@@ -137,7 +137,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Hackbright Academy is the leading software engineering school for women founded in San Francisco in 2012. The academy graduates more female engineers than Stanford and UC Berkeley each year.
 
-  - [Ladies Learning Code](http://ladieslearningcode.com/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
+  - [Ladies Learning Code](http://ladieslearningcode.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
 
     We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
 
@@ -175,7 +175,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 
-  - [Lady Talks](http://ladytalks.technology/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [Lady Talks](http://ladytalks.technology/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Women talking technology for themselves. Transgender people, transvestites and non-binary are also welcomed.
 
@@ -187,7 +187,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
 
-  - [SheSharp](http://www.shesharp.org/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
     A greek community of people dedicated to promote women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
@@ -195,7 +195,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering, and to be recognized for their life-changing contributions as engineers and leaders. It promotes the anual conference for women engineer.
 
-  - [WECode](http://www.wecodeharvard.com/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
 
@@ -210,7 +210,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Communities/Groups
   Online communities and groups.
 
-  - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> | *Lang: Deutsch Only*
+  - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
 
     Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
 
@@ -221,7 +221,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Mentorship
   Projects with mentoring opportunities.
 
-  - [Chick Tech](http://chicktech.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Chick Tech](http://chicktech.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     We facilitate hands-on technology-centric events to empower, support, and increase the confidence of women and girls.  Through our events, we build community, empower participants to see themselves as leaders, and provide networking and mentoring opportunities in the rapidly growing high tech industry.
 
@@ -253,7 +253,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Content
 
-  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
     It is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
 
@@ -265,7 +265,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills. It revolves primarily around providing online activities for young girls to learn coding on its website.
 
-  - [PrograMaria](http://www.programaria.org/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [PrograMaria](http://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     PrograMaria is an initiative to involve more girls and women with Tech and Programming area. The content production and events are produced under three pillars: Inspire, Discuss and Learn.
 
