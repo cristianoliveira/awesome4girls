@@ -3,24 +3,24 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
-# Meetups/Events
+## Meetups/Events
 
-## Clojure
+### Clojure
   - [ClojureBridge](http://www.clojurebridge.org)
 
   **Description:** ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
-## Go-lang
+### Go-lang
   - [Women Who Go](http://www.womenwhogo.org/)
 
   **Description:** We are women in the #golang community. [From Tweeter](https://twitter.com/womenwhogo)
 
-## Java
+### Java
   - [JDuchess](http://www.jduchess.org/)
 
   **Description:** Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get involved in the greater Java community.
 
-## Javascript
+### Javascript
   - [Js-Girls](http://js-girls.org/)
 
   **Description:** js-girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
@@ -33,7 +33,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   
   **Description:** We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
-## Python
+### Python
   - [Django Girls](https://djangogirls.org/)
 
   **Description:** We want to inspire women to fall in love with programming.
@@ -43,12 +43,12 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
-## PHP
+### PHP
   - [PHPWomen](https://phpwomen.org/)
 
   **Description:** We're an inclusive, global user group providing a support network within the PHP community.
 
-## Ruby
+### Ruby
   - [Rails Bridge](http://www.railsbridge.org/)
 
   **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
@@ -61,7 +61,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** Getting more women into Open Source!
 
-## UX
+### UX
   - [Ladies that UX](http://ladiesthatux.com/)
 
   **Description:** Ladies that UX is a monthly meet up that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
@@ -70,7 +70,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   **Description:** The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
-# General/Summits/Conferences
+## General/Summits/Conferences
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
   **Description:** A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
@@ -218,9 +218,9 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
     **Description:** Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
-# Others Initiatives
+## Others Initiatives
 
-## Awards
+### Awards
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
 
   **Description:** Honor. Celebrate. Inspire.
@@ -230,7 +230,7 @@ We believe that open source is the future of technology—and that it's time to 
 
   **Description:** The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognise outstanding girls and women in tech, and the organisations who support them in Europe, Africa and beyond.
 
-## Communities/Groups
+### Communities/Groups
   - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> | *Lang: Deutsch Only*
 
   **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
