@@ -26,7 +26,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     js-girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
-  - [Js4Girls](http://js4girls.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
+  - [Js4Girls](http://js4girls.com/) | *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
 
     A brazilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
 
@@ -295,8 +295,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+# License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
