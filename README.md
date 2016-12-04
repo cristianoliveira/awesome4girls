@@ -4,7 +4,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Meetups/Events
-    This section contains all specifics meetups/events.
+  This section contains all specifics meetups/events.
 
 ### Clojure
   - [ClojureBridge](http://www.clojurebridge.org)
@@ -88,10 +88,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
 ## Intiatives/Programs
-    Initiatives that have the goal to prepare women for a tech career.
+  Initiatives that have the goal to prepare women for a tech career.
 
 ### Academy/Camp
-    Projects that have any kind of Academy/Summer Camp in its activities.
+  Projects that have any kind of Academy/Summer Camp in its activities.
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
@@ -146,7 +146,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
-    Projects where an open source organization is behind it.
+  Projects where an open source organization is behind it.
 
   - [Debian Women](https://www.debian.org/women/)
 
@@ -169,7 +169,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
 ### Conferences/Talks
-    Conferences that brings the subject.
+  Conferences that brings the subject.
 
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
@@ -208,7 +208,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
 ### Communities/Groups
-    Online communities and groups.
+  Online communities and groups.
 
   - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> | *Lang: Deutsch Only*
 
@@ -219,7 +219,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
 
 ### Mentorship
-    Projects with mentoring opportunities.
+  Projects with mentoring opportunities.
 
   - [Chick Tech](http://chicktech.org/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
