@@ -1,6 +1,8 @@
 # awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
+----
+
 # Meetups/Events
 
 ## Clojure
@@ -274,6 +276,8 @@ We believe that open source is the future of technology—and that it's time to 
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
   - [PowerToFly](https://www.powertofly.com/): Connecting women with jobs that actually lead to work-life balance. Specializing on the remote work for women. In addition to job board it contains information about time-management, self-efficacy etc.
+  
+----
 
 ## License
 
