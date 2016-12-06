@@ -78,6 +78,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Event for women with papers and classes to inspire the female public to the tech area.
+    
+  - [League of Women Coders](http://lwc.tech/)
+  
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a grassroots collective that focusses on coding, hacking, and learning together. We’re like a book club for superhero women coders. You’ll find us championing free software, debating the best uses for ternary operators, defending against trolls, sharing what we know, and supporting each other in every way we can.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
