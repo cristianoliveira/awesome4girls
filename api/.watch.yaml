@@ -1,0 +1,10 @@
+
+## Funzzy events file
+# more details see: https://github.com/cristianoliveira/funzzy
+#
+# list here all the events and the commands that it should execute
+
+- name: run my test
+  run: 'make test'
+  when:
+    change: ['app/**', 'app.rb', 'spec/**']
