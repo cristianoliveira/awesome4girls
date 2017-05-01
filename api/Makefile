@@ -1,4 +1,4 @@
-.PHONY: run setup test
+.PHONY: run setup test services
 
 setup:
 	@gem install bundle
@@ -6,7 +6,7 @@ setup:
 	@bundle exec 'rake db:create db:migrate db:seed'
 
 run:
-	@bundle exec rackup -p 3000
+	@bundle exec rackup -p 5000
 
 run-procfile:
 	foreman start
@@ -19,3 +19,6 @@ test:
 
 style:
 	bundle exec rubocop --force-exclusion
+
+services:
+	docker-compose up -d postgresql redis
