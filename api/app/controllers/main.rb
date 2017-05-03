@@ -2,7 +2,7 @@
 
 # Responsible to provide the right context for controllers
 #
-class MainController < Sinatra::Base
+class MainController < ApiController
   get '/' do
     json(message: 'welcome to the awesome4girls api. See the docs ' \
           'for details: https://github.com/cristianoliveira/awesome4girls-api')

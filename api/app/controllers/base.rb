@@ -5,11 +5,13 @@
 #
 class ApiController < Sinatra::Base
   register Sinatra::ErrorsHandler
+  register Sinatra::CrossOrigin
   helpers Sinatra::BasicAuth
   helpers Sinatra::JsonApi
   helpers Sinatra::Param
 
   before do
+    cross_origin
     content_type :json
   end
 
@@ -20,7 +22,7 @@ class ApiController < Sinatra::Base
   end
 
   def current_user
-    name, pass = credentials(request)
+    name, _ = credentials(request)
     User.find_by_name(name)
   end
 end

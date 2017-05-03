@@ -4,6 +4,7 @@ require 'sinatra/base'
 require 'sinatra/activerecord'
 require 'sinatra/json'
 require 'sinatra/param'
+require 'sinatra/cross_origin'
 
 require 'digest/md5'
 require 'json'
@@ -13,6 +14,10 @@ require 'net/http'
 
 require 'sidekiq/web'
 require 'kramdown'
+
+configure do
+  enable :cross_origin
+end
 
 require_relative './config/sidekiq.rb'
 

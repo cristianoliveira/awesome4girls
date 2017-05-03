@@ -2,23 +2,26 @@ test:
   adapter: sqlite3
   encoding: unicode
   database: afgtest
-  pool: 2
+  pool: 5
   username: test
   password: test
+  host: localhost
+  timeout: 5000
 
 development:
   adapter: postgresql
   encoding: unicode
   database: afgdev
-  pool: 2
-  username: <%= ENV['PG_USER'] %>
-  password: <%= ENV['PG_PASS'] %>
+  pool: 5
+  username: postgres
+  host: localhost
+  timeout: 5000
 
 production:
   adapter: postgresql
   encoding: unicode
   database: afg
-  pool: 2
+  pool: 5
   username: <%= ENV['PG_USER'] %>
   password: <%= ENV['PG_PASS'] %>
   host: localhost

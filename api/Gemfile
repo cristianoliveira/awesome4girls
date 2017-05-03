@@ -14,6 +14,7 @@ gem 'sinatra'
 gem 'sinatra-activerecord'
 gem 'sinatra-contrib'
 gem 'sinatra-param'
+gem "sinatra-cross_origin", "~> 0.3.1"
 
 gem 'puma'
 gem 'rake'
