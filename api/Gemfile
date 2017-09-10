@@ -25,7 +25,6 @@ group :development, :test do
 
   gem 'annotate'
 
-  gem 'pry-byebug'
   gem 'sqlite3'
 
   gem 'rack-test'
