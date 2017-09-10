@@ -13,6 +13,8 @@ class SincronizerWorker
     markdown = GithubClient.from(REPO, 'master').request('README.md')
     data = MarkdownParser.to_hash(markdown)
 
+    p data
+
     data.select { |s| s['level'] > 1 }.each do |section|
       if section['level'] == 2
         @section = update_section(section)
@@ -25,15 +27,15 @@ class SincronizerWorker
 
   private
 
-  def update_section(section)
-    section = Section.find_by(title: section['text'])
+  def update_section(item)
+    section = Section.find_by(title: item['text'])
 
     if section
-      section.update(title: section['text'],
-                     description: section['description'])
+      section.update(title: item['text'],
+                     description: item['description'])
     else
-      section = Section.create(title: section['text'],
-                               description: section['description'])
+      section = Section.create(title: item['text'],
+                               description: item['description'])
     end
 
     section
