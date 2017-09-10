@@ -127,7 +127,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girl Can Code](https://gcc.prologin.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" alt="French" width="30">
 
-    The Girls Can Code! is an internishp that takes place in 3 different places and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science. Participants will be guided throughout the week by computer students
+     The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science.
 
   - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
