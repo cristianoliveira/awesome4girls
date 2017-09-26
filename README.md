@@ -179,7 +179,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Conferences/Talks
   Conferences that brings the subject.
   
-  - [Ela Conf](http://elaconf.com)
+  - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
 
      A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
 
