@@ -178,6 +178,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Conferences/Talks
   Conferences that brings the subject.
+  
+  - [Ela Conf](http://elaconf.com)
+
+     A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
 
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
