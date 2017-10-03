@@ -24,11 +24,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Javascript
   - [Js-Girls](http://js-girls.org/)
 
-    js-girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
+    Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
   - [Js4Girls](http://js4girls.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    A Brazilian initiative to provide FREE classes of javascript for women in a man-Free environment.
+    A Brazilian initiative to provide FREE classes on javascript for women in a male-free environment.
 
   - [NodeGirls](http://nodegirls.io/)
 
@@ -46,7 +46,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### PHP
   - [PHPWomen](https://phpwomen.org/)
 
-    We're an inclusive, global user group providing a support network within the PHP community.
+    We're an inclusive, global user-group providing a support network within the PHP community.
 
 ### Ruby
   - [Rails Bridge](http://www.railsbridge.org/)
@@ -55,7 +55,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RailsGirls](http://railsgirls.com/)
 
-    Multinational community to give tools for girls and women to build their ideas.
+    RailsGirls is a multinational community which provides tools for girls and women to build their ideas.
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
@@ -64,23 +64,24 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### UX
   - [Ladies that UX](http://ladiesthatux.com/)
 
-    Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women that work in UX, who positively promote and teach each other.
+    Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
   - [XX-UX](http://www.xxux.org/)
 
+    XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ### General
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Byte Girl is a non-profit and open event organized by volunteers focused on the female public who likes tech. It has the goal of developing women empowerment.
+    Byte Girl is a non-profit, open event organized by volunteers focused on females who likes tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Event for women with papers and classes to inspire the female public to the tech area.
-    
+    Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
+
   - [League of Women Coders](http://lwc.tech/)
-  
+
     League of Women Coders (formerly Ladies Who Code, est. June 2011) is a grassroots collective that focuses on coding, hacking, and learning together. We’re like a book club for superhero women coders. You’ll find us championing free software, debating the best uses for ternary operators, defending against trolls, sharing what we know, and supporting each other in every way we can.
 
   - [Technovation](http://www.technovationchallenge.org/)
@@ -107,7 +108,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
-    To increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+    The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
   - [Chicas Poderosas](http://www.chicaspoderosas.org/)
 
@@ -125,7 +126,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
 
-  - [Girl Can Code](https://gcc.prologin.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" alt="French" width="30">
+  - [Girls Can Code](https://gcc.prologin.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" alt="French" width="30">
 
      The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science.
 
@@ -151,7 +152,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
-    We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+    We are a non-profit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
   Projects where an open source organization is behind it.
@@ -178,7 +179,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Conferences/Talks
   Conferences that bring the subject.
-  
+
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
      A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
@@ -201,7 +202,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
-    A greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
+    A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
   - [SWE](http://societyofwomenengineers.swe.org/)
 
@@ -225,7 +226,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
 
     An enthusiastic group of ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regularly every two weeks. Everyone is welcome.
-    
+
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
@@ -236,15 +237,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Chick Tech](http://chicktech.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     We facilitate hands-on technology-centric events to empower, support, and increase the confidence of women and girls. Through our events, we build community, empower participants to see themselves as leaders and provide networking and mentoring opportunities in the rapidly growing high-tech industry.
-    
+
   - [OS4W](https://os4w.org/)
 
-    It is a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors. The site features a directory for finding mentors and pair partners as well as a curated list of open source projects with codes of conduct.
+    OS4W is a resource for connecting all women, including women of color and transgender women, to open source projects that are welcoming, inclusive, and appreciative of diversity in their contributors. The site features a directory for finding mentors and pair partners as well as a curated list of open source projects with codes of conduct.
 
   - [She++](http://www.sheplusplus.org/)
 
      It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
-     
+
 ## Other Initiatives
 
 ### Awards
@@ -255,7 +256,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [The Ada Awards](http://adaawards.com/)
 
-    The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognise outstanding girls and women in tech, and the organisations who support them in Europe, Africa and beyond.
+    The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
 ### Speakers
 
@@ -267,7 +268,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
-    It is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
+    Code it Like a Girl is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
 
   - [Global Fund for Women](http://ignite.globalfundforwomen.org/about)
 
@@ -275,11 +276,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Made with Code](https://www.madewithcode.com/)
 
-    Made with Code is an initiative launched by Google on 19 July 2014. Google aimed to empower young women in middle and high schools with computer programming skills. It revolves primarily around providing online activities for young girls to learn to code on its website.
+    Made with Code is an initiative launched by Google on 19 July 2014. Google's aim is to to empower young women in middle and high schools with computer programming skills. The website revolves around providing online activities for young girls to learn to code.
 
   - [PrograMaria](http://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    PrograMaria is an initiative to involve more girls and women with Tech and Programming area. The content production and events are produced under three pillars: Inspire, Discuss and Learn.
+    PrograMaria is an initiative to involve more girls and women in the tech and programming area. The content production and events are produced under three pillars: Inspire, Discuss and Learn.
 
   - [Womoz](http://www.womoz.org/blog/)
 
@@ -293,17 +294,17 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
   - [She++ The Documentary](http://sheplusplus.org/film/)
-    The Documentary (12 min: TV-14 DL; Releasing April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
-    
+    The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
+
 ### Jobs
   - [Outreach Program for Women](https://www.gnome.org/opw/)
-    Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute anytime throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
+    Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
 
   - [Women in Tech](http://www.womenintechnology.co.uk/)
-    Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
+    Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
   - [PowerToFly](https://www.powertofly.com/)
-    Connecting women with jobs that actually lead to work-life balance. Specializing in the remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
+    Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
 
 ----
 
