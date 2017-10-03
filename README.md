@@ -14,7 +14,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Go-lang
   - [Women Who Go](http://www.womenwhogo.org/)
 
-    We are women in the #golang community. [From Tweeter](https://twitter.com/womenwhogo)
+    We are women in the #golang community. [From Twitter](https://twitter.com/womenwhogo)
 
 ### Java
   - [JDuchess](http://www.jduchess.org/)
