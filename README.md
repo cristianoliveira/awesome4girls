@@ -217,8 +217,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
 
   - [Women Who Tech](http://womenwhotech.com/)
-
+  
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+    
+  - [Write/Speak/Code](http://www.writespeakcode.com/)
+  
+     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. We run conferences and events across the US.
 
 ### Communities/Groups
   Online communities and groups.
@@ -230,6 +234,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+    
 
 ### Mentorship
   Projects with mentoring opportunities.
