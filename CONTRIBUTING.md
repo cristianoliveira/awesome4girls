@@ -9,8 +9,8 @@ Please ensure your pull request adheres to the following guidelines:
 ### About Content
 
   - Search previous suggestions before making a new one, as yours may be a duplicate.
-  - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-  - A link back to this list from yours, so users can discover more lists, would be appreciated.
+  - Make sure that your list is useful before submitting which implies that it has enough content and every item has a good description.
+  - A link back to this list from yours, so that the users can discover more lists, would be appreciated.
   - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
   - Use the following template:
 
