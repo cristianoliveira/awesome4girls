@@ -4,7 +4,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Meetups/Events
-  This section contains all specifics meet-ups/events.
+  This section contains all specifics meetups/events.
 
 ### Clojure
   - [ClojureBridge](http://www.clojurebridge.org)
@@ -64,7 +64,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### UX
   - [Ladies that UX](http://ladiesthatux.com/)
 
-    Ladies that UX is a monthly meet-up that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
+    Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
   - [XX-UX](http://www.xxux.org/)
 
@@ -74,7 +74,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### General
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Byte Girl is a non-profit, open event organized by volunteers focused on females who likes tech. It's goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
+    Byte Girl is a non-profit, open event organized by volunteers focused on females who likes tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -112,7 +112,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Chicas Poderosas](http://www.chicaspoderosas.org/)
 
-    Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meet-ups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
+    Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meetups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
 
   - [Code First Girl](http://www.codefirstgirls.org.uk) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
 
@@ -202,7 +202,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
-    A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meet-ups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
+    A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
   - [SWE](http://societyofwomenengineers.swe.org/)
 
