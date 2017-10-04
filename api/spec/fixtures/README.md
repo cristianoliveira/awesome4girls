@@ -25,7 +25,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Js4Girls](http://js4girls.com/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> | *Lang: PT-BR only*
 
-  **Description:** A brazilian iniciative to provide FREE classes of javascript for women in a Man-Free environment.
+  **Description:** A Brazilian initiative to provide FREE classes of javascript for women in a Man-Free environment.
 
   - [NodeGirls](http://nodegirls.io/)
 
@@ -53,7 +53,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [RailsGirls](http://railsgirls.com/)
 
-  **Description:** Multinacional community to give tools for girls and women to build their ideas.
+  **Description:** Multinational community to give tools for girls and women to build their ideas.
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
@@ -100,14 +100,14 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Code First Girl](http://www.codefirstgirls.org.uk/courses.html)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
 
-  **Description:** Girls runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
+  **Description:** Code First: Girls runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
 
   - [Code Girl](http://www.euvou.codegirl.com.br/)
 *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> |
 *Lang: PT-BR only*
 
   **Description:** Event for women with papers and classes to inspire the female public to the tech area.
-  
+
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
 
   **Description:** Code it Like a Girl organizes workshops that familiarize women with coding, in order for them to obtain valuable technological skills and bridge the gender gap in the IT industry.
@@ -139,7 +139,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
   - [Global Fund for Women](http://ignite.globalfundforwomen.org/about)
 
   **Description:** IGNITE features stories of women and girls who are leading and innovating in science, technology, engineering and math. The project also highlights the gender gap in technology and advocates for women and girls’ increased access to and control of technologies.
-  
+
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
   **Description:** The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
@@ -190,7 +190,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 
   - [SWE](http://we14.swe.org/)
 
-  **Description:** The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering, and to be recognized for their life-changing contributions as engineers and leaders. It promotes the anual conference for women engineer.
+  **Description:** The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering, and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineer.
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
@@ -226,12 +226,12 @@ We believe that open source is the future of technology—and that it's time to 
 
   - [The Ada Awards](http://adaawards.com/)
 
-  **Description:** The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognise outstanding girls and women in tech, and the organisations who support them in Europe, Africa and beyond.
+  **Description:** The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
 ### Communities/Groups
   - [Code Girls](http://codegirls.de/) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> | *Lang: Deutsch Only*
 
-  **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regulary every two weeks. Everyone is welcome.
+  **Description:** Enthusiastic group of Ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regularly every two weeks. Everyone is welcome.
 
   - [Debian Women](https://www.debian.org/women/)
 
@@ -271,7 +271,7 @@ We believe that open source is the future of technology—and that it's time to 
 ### Jobs
   - [Outreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
 
-  - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organisation committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
+  - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
   - [PowerToFly](https://www.powertofly.com/): Connecting women with jobs that actually lead to work-life balance. Specializing on the remote work for women. In addition to job board it contains information about time-management, self-efficacy etc.
 
