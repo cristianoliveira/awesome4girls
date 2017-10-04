@@ -4,7 +4,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Meetups/Events
-  This section contains all specifics meetups/events.
+  This section contains all the specifics for meetups/events.
 
 ### Clojure
   - [ClojureBridge](http://www.clojurebridge.org)
@@ -19,7 +19,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Java
   - [JDuchess](http://www.jduchess.org/)
 
-    Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java, can connect with each other and get more involved in the Java community.
+    Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
   - [Js-Girls](http://js-girls.org/)
@@ -28,7 +28,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Js4Girls](http://js4girls.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    A Brazilian initiative to provide FREE classes on javascript for women in a male-free environment.
+    A Brazilian initiative to provide FREE classes on javascript to women in a male-free environment.
 
   - [NodeGirls](http://nodegirls.io/)
 
@@ -37,7 +37,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Python
   - [Django Girls](https://djangogirls.org/)
 
-    We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open sourced online tutorials and care about curating amazing first experiences with technology.
+    We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
 
   - [PyLadies](http://www.pyladies.com/)
 
