@@ -74,7 +74,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### General
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Byte Girl is a non-profit, open event organized by volunteers focused on females who likes tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
+    Byte Girl is a nonprofit, open event organized by volunteers focused on females who likes tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -90,7 +90,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Women Who Code (WWCode) is a U.S. based 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
 ## Initiatives/Programs
   Initiatives that have the goal to prepare women for a tech career.
@@ -136,7 +136,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girls In Tech](http://www.girlsintech.org/)
 
-    GIT is a global non-profit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
+    GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
 
   - [Girls Who Code](http://girlswhocode.com/)
 
@@ -152,7 +152,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
-    We are a non-profit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+    We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
   Projects where an open source organization is behind it.
