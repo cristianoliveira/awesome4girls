@@ -82,9 +82,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [League of Women Coders](http://lwc.tech/)
 
-    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a grassroots collective that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. 
-
-The meetups involve casual 5-minute lightning talks, asking technical questions, and tossing around ideas. It has a strong networking element, and there is a large emphasis on sharing ideas to improve one's coding skills. Food of the baked variety and pizza is given at the venue. The meetups also bring in interesting lady speakers who talk about various issues in tech and being women in tech.
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and sometimes also bring female speakers.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
