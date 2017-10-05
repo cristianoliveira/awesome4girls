@@ -292,7 +292,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/)
-    The InspirAda na Computação is a blog made by Lidiane Monteiro, a PyLady. The blog is focused on the space of the women in the computation.
+  - The InspirAda na Computação is a blog made by Lidiane Monteiro, a PyLady. The blog is focused on the space of the women in the computation.
 
 ### Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/)
