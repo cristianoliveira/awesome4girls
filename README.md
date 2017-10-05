@@ -120,7 +120,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
-    Microsoft is proud to offer technology programs that target youth. This one-day event, held at multiple Microsoft locations worldwide, is designed to provide high school girls with a better understanding of what a career in technology is all about.
+    DigiGirlz Day is a Microsoft-sponsored, one-day event designed to provide middle and high school girls with a better understanding of the career opportunities available in the modern technology marketplace. This exciting opportunity offers attendees career planning assistance, thought-provoking exercises, and innovative Microsoft product demonstrations -- all while interacting with real Microsoft employees and managers. Previously, this event has taken place across the globe at Microsoft locations like Nashville, TN; San Diego, CA; and Cairo, Egypt, with future sites listed [here](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx).
 
   - [DIY Girls](http://www.diygirls.org/)
 
