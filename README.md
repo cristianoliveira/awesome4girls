@@ -200,7 +200,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
 
-  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
     A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
@@ -271,7 +271,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Content
 
-  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
     Code it Like a Girl is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
 
