@@ -293,7 +293,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
    
-    The InspirAda na Computação is a blog made by Lidiane Monteiro, a PyLady. The blog is focused on the space of the women in the computation.
+    The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
 
 ### Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/)
