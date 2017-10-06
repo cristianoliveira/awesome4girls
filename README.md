@@ -94,7 +94,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
     - [Bay Area Girls](http://girlgeek.io/about/)
     
-    Company sponsored dinners in the San Francisco Bay Area which invite women from various areas of technology to share their experiences, alongside prominent speakers from the female tech community, networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
+    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
 ## Initiatives/Programs
   Initiatives that have the goal to prepare women for a tech career.
