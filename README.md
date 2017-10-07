@@ -30,6 +30,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A Brazilian initiative to provide FREE classes on javascript to women in a male-free environment.
 
+  - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    A group for join up women interested in web development and javascript with open and free meetings.
+
   - [NodeGirls](http://nodegirls.io/)
 
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
