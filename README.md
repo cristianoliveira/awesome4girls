@@ -74,7 +74,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### General
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Byte Girl is a nonprofit, open event organized by volunteers focused on females who likes tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
+    Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -82,7 +82,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [League of Women Coders](http://lwc.tech/)
 
-    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and sometimes also bring female speakers.
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
@@ -104,7 +104,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
-     App Camp For Girls is a place where girls can put their creative powers to work, designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
+     App Camp For Girls is a place where girls can put their creative powers to work by designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
 
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
@@ -116,7 +116,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Code First Girl](http://www.codefirstgirls.org.uk) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
 
-    Code First Girl runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate  courses run in London.
+    Code First Girl runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate courses run in London.
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
