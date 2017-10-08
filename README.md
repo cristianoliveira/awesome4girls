@@ -298,6 +298,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
    
     The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
+    
+  - [WomenTechmakers](https://www.womentechmakers.com/)
+    
+    Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
 ### Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/)
