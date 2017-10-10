@@ -145,6 +145,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Girls Who Code](http://girlswhocode.com/)
 
     We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
+    
+  - [Grace Hopper Program at Fullstack Academy](https://www.gracehopper.com/)
+  
+    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. As an affiliate of Fullstack Academy, it teaches a JavaScript-focused curriculum.
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
