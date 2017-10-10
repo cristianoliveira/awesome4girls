@@ -239,6 +239,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
     
+  - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
+
+    Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals that have a positive social impact.
+    
 
 ### Mentorship
   Projects with mentoring opportunities.
