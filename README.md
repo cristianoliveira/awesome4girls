@@ -32,7 +32,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    A group for join up women interested in web development and javascript with open and free meetings.
+    A group for women interested in web development and javascript with open and free meetings, workshops and talks.
 
   - [NodeGirls](http://nodegirls.io/)
 
