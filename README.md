@@ -76,6 +76,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ### General
+  - [Ada Lovelace Day](https://findingada.com/)
+
+    Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
+
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
@@ -99,10 +103,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     - [Bay Area Girls](http://girlgeek.io/about/)
     
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
-
-    - [Ada Lovelace Day](https://findingada.com/)
-
-    Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
 
 ## Initiatives/Programs
   Initiatives that have the goal to prepare women for a tech career.
