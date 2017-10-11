@@ -100,6 +100,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
+    - [Ada Lovelace Day](https://findingada.com/)
+
+    Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
+
 ## Initiatives/Programs
   Initiatives that have the goal to prepare women for a tech career.
 
