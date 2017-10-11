@@ -148,7 +148,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
   - [Grace Hopper Program at Fullstack Academy](https://www.gracehopper.com/)
   
-    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. As an affiliate of Fullstack Academy, it teaches a JavaScript-focused curriculum.
+    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. Specifically the program teaches CS fundamentals including algorithms, data structures, and object-oriented programming as well as HTML & CSS, JavaScript frameworks, SQL, and test-driven development. 
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
