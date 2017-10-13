@@ -84,6 +84,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
 
+  - [RodAda Hacker](http://rodadahacker.org/)  - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    RodAda Hacker is a brazillian network focused on stimulating the appropriation of new technologies by girls and women, which is based on the realization of collaborative workshops specially designed for the female audience. The name of the project is a tribute to Ada Lovelace.
+
   - [Technovation](http://www.technovationchallenge.org/)
 
     The global technology entrepreneurship program for girls. Students work in teams to develop mobile app startups to solve real problems in their communities.
@@ -91,9 +95,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
-    
+
     - [Bay Area Girls](http://girlgeek.io/about/)
-    
+
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
 ## Initiatives/Programs
@@ -221,11 +225,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
 
   - [Women Who Tech](http://womenwhotech.com/)
-  
+
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-    
+
   - [Write/Speak/Code](http://www.writespeakcode.com/)
-  
+
      Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
 ### Communities/Groups
@@ -238,7 +242,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
-    
+
 
 ### Mentorship
   Projects with mentoring opportunities.
@@ -296,11 +300,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-   
+
     The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
-    
+
   - [WomenTechmakers](https://www.womentechmakers.com/)
-    
+
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
 ### Documentaries/Movies
