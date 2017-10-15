@@ -86,7 +86,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RodAda Hacker](http://rodadahacker.org/)  - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for who wants to dream, build awesome projects and rethink the technology. The name of the project is a tribute to Ada Lovelace.
+    The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink the technology.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
