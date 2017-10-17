@@ -30,6 +30,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A Brazilian initiative to provide FREE classes on javascript to women in a male-free environment.
 
+  - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    A group for women interested in web development and javascript with open and free meetings, workshops and talks.
+
   - [NodeGirls](http://nodegirls.io/)
 
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
@@ -72,6 +76,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ### General
+  - [Ada Lovelace Day](https://findingada.com/)
+
+    Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
+
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
@@ -149,6 +157,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Girls Who Code](http://girlswhocode.com/)
 
     We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
+    
+  - [Grace Hopper Program at Fullstack Academy](https://www.gracehopper.com/)
+  
+    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. Specifically the program teaches CS fundamentals including algorithms, data structures, and object-oriented programming as well as HTML & CSS, JavaScript frameworks, SQL, and test-driven development. 
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
@@ -242,8 +254,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+    
+  - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
-
+    Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
+    
 ### Mentorship
   Projects with mentoring opportunities.
 
