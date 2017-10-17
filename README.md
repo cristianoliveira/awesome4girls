@@ -86,7 +86,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RodAda Hacker](http://rodadahacker.org/)  - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink the technology.
+    The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink about existing technology.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
@@ -96,7 +96,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-    - [Bay Area Girls](http://girlgeek.io/about/)
+  - [Bay Area Girls](http://girlgeek.io/about/)
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
