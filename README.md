@@ -29,25 +29,34 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
-## Meetups/Events ([Go to top](#awesome4girls--))
+### Meetups/Events
+([Go to top](#awesome4girls--))
+
   This section contains all the specifics for meetups/events.
 
-### Clojure ([Go to top](#awesome4girls--))
+### Clojure 
+([Go to top](#awesome4girls--))
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
-### Go-lang ([Go to top](#awesome4girls--))
+### Go-lang 
+([Go to top](#awesome4girls--))
+
   - [Women Who Go](http://www.womenwhogo.org/)
 
     We are women in the #golang community. [From Twitter](https://twitter.com/womenwhogo)
 
-### Java ([Go to top](#awesome4girls--))
+### Java 
+([Go to top](#awesome4girls--))
+
   - [JDuchess](http://www.jduchess.org/)
 
     Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
-### Javascript ([Go to top](#awesome4girls--))
+### Javascript 
+([Go to top](#awesome4girls--))
+
   - [Js-Girls](http://js-girls.org/)
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
@@ -64,7 +73,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
-### Python ([Go to top](#awesome4girls--))
+### Python 
+([Go to top](#awesome4girls--))
+
   - [Django Girls](https://djangogirls.org/)
 
     We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
@@ -73,12 +84,16 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
-### PHP ([Go to top](#awesome4girls--))
+### PHP 
+([Go to top](#awesome4girls--))
+
   - [PHPWomen](https://phpwomen.org/)
 
     We're an inclusive, global user-group providing a support network within the PHP community.
 
-### Ruby ([Go to top](#awesome4girls--))
+### Ruby 
+([Go to top](#awesome4girls--))
+
   - [Rails Bridge](http://www.railsbridge.org/)
 
     Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech so that people of all backgrounds can feel welcome and comfortable in our industry.
@@ -91,7 +106,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Getting more women into Open Source!
 
-### UX ([Go to top](#awesome4girls--))
+### UX 
+([Go to top](#awesome4girls--))
+
   - [Ladies that UX](http://ladiesthatux.com/)
 
     Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
@@ -101,7 +118,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
-### General ([Go to top](#awesome4girls--))
+### General 
+([Go to top](#awesome4girls--))
+
   - [Ada Lovelace Day](https://findingada.com/)
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
@@ -134,10 +153,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
-## Initiatives/Programs ([Go to top](#awesome4girls--))
+## Initiatives/Programs 
+([Go to top](#awesome4girls--))
+
   Initiatives that have the goal to prepare women for a tech career.
 
-### Academy/Camp ([Go to top](#awesome4girls--))
+### Academy/Camp 
+([Go to top](#awesome4girls--))
+
   Projects that have any kind of Academy/Summer Camp in its activities.
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
@@ -204,7 +227,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
-### Linux/OpenSource ([Go to top](#awesome4girls--))
+### Linux/OpenSource 
+([Go to top](#awesome4girls--))
+
   Projects where an open source organization is behind it.
 
   - [Debian Women](https://www.debian.org/women/)
@@ -227,7 +252,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
-### Conferences/Talks ([Go to top](#awesome4girls--))
+### Conferences/Talks 
+([Go to top](#awesome4girls--))
+
   Conferences that bring the subject.
 
   - [AlterConf](https://alterconf.com/)
@@ -293,7 +320,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
     
-### Mentorship ([Go to top](#awesome4girls--))
+### Mentorship 
+([Go to top](#awesome4girls--))
+
   Projects with mentoring opportunities.
 
   - [Chick Tech](http://chicktech.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
@@ -308,9 +337,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
      It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
 
-## Other Initiatives ([Go to top](#awesome4girls--))
+## Other Initiatives 
+([Go to top](#awesome4girls--))
 
-### Awards ([Go to top](#awesome4girls--))
+### Awards 
+([Go to top](#awesome4girls--))
 
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
 
@@ -320,13 +351,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
-### Speakers ([Go to top](#awesome4girls--))
+### Speakers 
+([Go to top](#awesome4girls--))
 
   - [CallbackWomen](http://www.callbackwomen.com/)
 
     The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via [Twitter](https://twitter.com/callbackwomen).
 
-### Content ([Go to top](#awesome4girls--))
+### Content 
+([Go to top](#awesome4girls--))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
@@ -356,7 +389,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
-### Documentaries/Movies ([Go to top](#awesome4girls--))
+### Documentaries/Movies 
+([Go to top](#awesome4girls--))
+
   - [Code Girls](http://www.codegirlmovie.com/)
     Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
 
@@ -366,7 +401,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [She++ The Documentary](http://sheplusplus.org/film/)
     The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
 
-### Jobs ([Go to top](#awesome4girls--))
+### Jobs 
+([Go to top](#awesome4girls--))
+
   - [Outreach Program for Women](https://www.gnome.org/opw/)
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
 
