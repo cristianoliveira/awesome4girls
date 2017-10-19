@@ -305,7 +305,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
      Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
-### Communities/Groups ([Go to top](#awesome4girls--))
+### Communities/Groups 
+([Go to top](#awesome4girls--))
+
   Online communities and groups.
 
   - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
