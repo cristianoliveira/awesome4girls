@@ -226,6 +226,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Conferences/Talks
   Conferences that bring the subject.
 
+  - [AlterConf](https://alterconf.com/)
+  
+     AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
      A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
