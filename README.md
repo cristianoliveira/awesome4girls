@@ -3,6 +3,32 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ----
 
+## Table of Contents
+* [Meetups/Events](#meetupsevents)
+   * [Clojure](#clojure)
+   * [Go-lang](#go-lang)
+   * [Java](#java)
+   * [Javascript](#javascript)
+   * [Python](#python)
+   * [PHP](#php)
+   * [Ruby](#ruby)
+   * [UX](#ux)
+   * [General](#general)
+* [Initiatives/Programs](#initiativesprograms)
+   * [Academy/Camp](#academycamp)
+   * [Linux/OpenSource](#linuxopensource)
+   * [Conferences/Talks](#conferencestalks)
+   * [Communities/Groups](#communitiesgroups)
+   * [Mentorship](#mentorship)
+* [Other Initiatives](#other-initiatives)
+   * [Awards](#awards)
+   * [Speakers](#speakers)
+   * [Content](#content)
+   * [Documentaries/Movies](#documentariesmovies)
+   * [Jobs](#jobs)
+
+----
+
 ## Meetups/Events
   This section contains all the specifics for meetups/events.
 
