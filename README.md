@@ -196,6 +196,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
 
+  - [Minas Program](http://minasprogramam.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+
+    The Minas Program offers a two-week introductory programming course in Avenida Paulista, São Paulo each summer. It includes 51 hours of training in 13 days, and is free. This course is open to all but specifically geared toward women who with less access to technical training.
+
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
