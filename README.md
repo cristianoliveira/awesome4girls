@@ -277,6 +277,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Hackerspace/Makerspace
   Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
 
+  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
+
 ## Other Initiatives
 
 ### Awards
