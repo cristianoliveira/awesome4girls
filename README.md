@@ -4,6 +4,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Table of Contents
+* [Other Lists](#other-lists)
 * [Meetups/Events](#meetupsevents)
    * [Clojure](#clojure)
    * [Go-lang](#go-lang)
@@ -28,6 +29,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
    * [Jobs](#jobs)
 
 ----
+
+### Other Lists
+
+  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) 
+    List of initiatives and information about women in tech as well as the industry's gender gap.
+
 
 ### Meetups/Events
 ([Go to top](#awesome4girls--))
