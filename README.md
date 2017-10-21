@@ -321,7 +321,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
-    
+
 ### Mentorship 
 ([Go to top](#awesome4girls--))
 
@@ -341,6 +341,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Hackerspace/Makerspace
   Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
+
+
+  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
 
   - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
