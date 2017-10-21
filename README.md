@@ -279,7 +279,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment. Maria Lab promote diversity and unity of the womens.
+    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
 
 ## Other Initiatives
 
