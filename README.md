@@ -120,7 +120,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
-     App Camp For Girls is a place where girls can put their creative powers to work by designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
+    App Camp For Girls is a place where girls can put their creative powers to work by designing and building apps, while learning more about the business of software and being inspired by women mentors in the field.
 
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
@@ -144,7 +144,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girls Can Code](https://gcc.prologin.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" alt="French" width="30">
 
-     The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science.
+    The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science.
 
   - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -157,10 +157,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Girls Who Code](http://girlswhocode.com/)
 
     We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
-    
+
   - [Grace Hopper Program at Fullstack Academy](https://www.gracehopper.com/)
-  
-    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. Specifically the program teaches CS fundamentals including algorithms, data structures, and object-oriented programming as well as HTML & CSS, JavaScript frameworks, SQL, and test-driven development. 
+
+    The Grace Hopper Program is a 17-week, software engineering program for women (this includes anyone female identifying - transgender, genderqueer, and non-binary) in New York City. It lowers the barrier to entry by allowing no upfront tuition cost and repayment once a job is landed. Specifically the program teaches CS fundamentals including algorithms, data structures, and object-oriented programming as well as HTML & CSS, JavaScript frameworks, SQL, and test-driven development.
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
@@ -202,7 +202,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
-     A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
+    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
 
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
@@ -242,7 +242,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
 
-     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
+    Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
 ### Communities/Groups
   Online communities and groups.
@@ -254,11 +254,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
-    
+
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
-    
+
 ### Mentorship
   Projects with mentoring opportunities.
 
@@ -272,7 +272,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [She++](http://www.sheplusplus.org/)
 
-     It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
+    It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
+
+### Hackerspace/Makerspace
+  Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
+
+  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment. Maria Lab promote diversity and unity of the womens.
 
 ## Other Initiatives
 
