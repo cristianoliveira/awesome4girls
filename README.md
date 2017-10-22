@@ -329,6 +329,20 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
+  Slack Teams.
+  
+  - [Women in Tech](http://witchat.github.io/)
+
+    A safe, confidential space for women who work in technology to chat and support each other. 
+
+  - [Women TechMakers](https://www.womentechmakers.com/)
+
+    The early career slack group is pretty active, apply to join.
+  
+  - [Systers](https://anitab.org/systers/)
+
+    A community of the Anita Borg Institute, provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of Tech.
+
 ### Mentorship 
 ([Go to top](#awesome4girls--))
 
