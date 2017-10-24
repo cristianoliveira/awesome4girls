@@ -20,6 +20,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
    * [Linux/OpenSource](#linuxopensource)
    * [Conferences/Talks](#conferencestalks)
    * [Communities/Groups](#communitiesgroups)
+   * [Chatrooms](#chatrooms)
    * [Mentorship](#mentorship)
 * [Other Initiatives](#other-initiatives)
    * [Awards](#awards)
@@ -328,6 +329,23 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
+
+### Chatrooms
+([Go to top](#awesome4girls--))
+  
+  Online chatrooms such as slack teams, gitter, IRC etc.
+  
+  - [Women in Tech](http://witchat.github.io/)
+
+    A safe, confidential space for women who work in technology to chat and support each other. 
+
+  - [Women TechMakers](https://www.womentechmakers.com/)
+
+    Early to mid-level career women who want to propel their career to senior level. Apply to join.
+  
+  - [Systers](https://anitab.org/systers/)
+
+    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
 
 ### Mentorship 
 ([Go to top](#awesome4girls--))
