@@ -341,11 +341,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women TechMakers](https://www.womentechmakers.com/)
 
-    Community of women in early to mid level career who want to propel their career to senior level. This slack group is pretty active, apply to join.
+    Early to mid-level career women who want to propel their career to senior level. Apply to join.
   
   - [Systers](https://anitab.org/systers/)
 
-    A community of the Anita Borg Institute members, provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
+    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
 
 ### Mentorship 
 ([Go to top](#awesome4girls--))
