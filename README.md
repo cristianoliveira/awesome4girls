@@ -397,6 +397,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via [Twitter](https://twitter.com/callbackwomen).
 
+  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.  
+    Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
+
 ### Content 
 ([Go to top](#awesome4girls--))
 
