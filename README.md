@@ -451,6 +451,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [PowerToFly](https://www.powertofly.com/)
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
+    
+  - [Rewriting the Code](http://rewritingthecode.org)
+    The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
 
 ----
 
