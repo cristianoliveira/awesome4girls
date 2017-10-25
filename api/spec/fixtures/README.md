@@ -49,7 +49,7 @@ We organize free Python and Django workshops, create open sourced online tutoria
 ### Ruby
   - [Rails Bridge](http://www.railsbridge.org/)
 
-  **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby, and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
+  **Description:** Workshops are a free and fun way to get started or level up with Rails, Ruby and other web technologies. Our events focus on increasing diversity in tech, so that people of all backgrounds can feel welcome and comfortable in our industry.
 
   - [RailsGirls](http://railsgirls.com/)
 
@@ -266,14 +266,14 @@ We believe that open source is the future of technology—and that it's time to 
 
   - [She started it](http://www.shestarteditfilm.com/): Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
-  - [She++ The Documentary](http://www.sheplusplus.org/blog/she-the-documentary/): The Documentary (12 min: TV-14 DL; Releasing April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek
+  - [She++ The Documentary](http://www.sheplusplus.org/blog/she-the-documentary/): The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative and trailblazing good girls gone geek
 
 ### Jobs
   - [Outreach Program for Women](https://www.gnome.org/opw/): Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provided a supportive community for beginning to contribute any time throughout the year and offered focused internship opportunities twice a year with a number of free software organizations.
 
   - [Women in Tech](http://www.womenintechnology.co.uk/): Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-  - [PowerToFly](https://www.powertofly.com/): Connecting women with jobs that actually lead to work-life balance. Specializing on the remote work for women. In addition to job board it contains information about time-management, self-efficacy etc.
+  - [PowerToFly](https://www.powertofly.com/): Connecting women with jobs that actually lead to work-life balance. Specializing on the remote work for women. In addition to job board it contains information about time-management, self-efficiency etc.
 
 # License
 
