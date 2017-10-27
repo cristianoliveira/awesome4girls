@@ -167,7 +167,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
-    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEAM industries. We create conferences, events and workshops where we bring together changemakers, pioneers, innovators, and high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive
+    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEAM industries. 
 
 ## Initiatives/Programs 
 ([Go to top](#awesome4girls--))
