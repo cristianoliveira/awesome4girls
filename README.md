@@ -284,8 +284,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
-    Girls in Tech is an organization compromising of women of any level in their career. They ephasize the importance of empowerment, entrepreneurship, engadgement, and education in the technology industry. With members ranging from high-tech employees to students, they hold yearly conferences to connect and inspire women. Other than building relationships, they offer learning opportunities to broaden your knowledge and develop skills that will have a considerable impact in the tech world and your career.
-
+    The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
+    
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
