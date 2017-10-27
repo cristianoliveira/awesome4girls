@@ -165,6 +165,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women in Tech Summit inspires, educates and connects women in the technology industry.
 
+  - [Wonder Women Tech Summit](https://wonderwomentech.com/)
+
+    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
+
+
 ## Initiatives/Programs 
 ([Go to top](#awesome4girls--))
 
