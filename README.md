@@ -33,7 +33,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Other Lists
 
-  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap) 
+  - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
 
@@ -42,27 +42,27 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   This section contains all the specifics for meetups/events.
 
-### Clojure 
+### Clojure
 ([Go to top](#awesome4girls--))
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
-### Go-lang 
+### Go-lang
 ([Go to top](#awesome4girls--))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
     We are women in the #golang community. [From Twitter](https://twitter.com/womenwhogo)
 
-### Java 
+### Java
 ([Go to top](#awesome4girls--))
 
   - [JDuchess](http://www.jduchess.org/)
 
     Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
-### Javascript 
+### Javascript
 ([Go to top](#awesome4girls--))
 
   - [Js-Girls](http://js-girls.org/)
@@ -81,7 +81,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
-### Python 
+### Python
 ([Go to top](#awesome4girls--))
 
   - [Django Girls](https://djangogirls.org/)
@@ -92,14 +92,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
-### PHP 
+### PHP
 ([Go to top](#awesome4girls--))
 
   - [PHPWomen](https://phpwomen.org/)
 
     We're an inclusive, global user-group providing a support network within the PHP community.
 
-### Ruby 
+### Ruby
 ([Go to top](#awesome4girls--))
 
   - [Rails Bridge](http://www.railsbridge.org/)
@@ -114,7 +114,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Getting more women into Open Source!
 
-### UX 
+### UX
 ([Go to top](#awesome4girls--))
 
   - [Ladies that UX](http://ladiesthatux.com/)
@@ -126,7 +126,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
-### General 
+### General
 ([Go to top](#awesome4girls--))
 
   - [Ada Lovelace Day](https://findingada.com/)
@@ -170,12 +170,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
 
 
-## Initiatives/Programs 
+## Initiatives/Programs
 ([Go to top](#awesome4girls--))
 
   Initiatives that have the goal to prepare women for a tech career.
 
-### Academy/Camp 
+### Academy/Camp
 ([Go to top](#awesome4girls--))
 
   Projects that have any kind of Academy/Summer Camp in its activities.
@@ -244,7 +244,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
-### Linux/OpenSource 
+### Linux/OpenSource
 ([Go to top](#awesome4girls--))
 
   Projects where an open source organization is behind it.
@@ -269,13 +269,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
-### Conferences/Talks 
+### Conferences/Talks
 ([Go to top](#awesome4girls--))
 
   Conferences that bring the subject.
 
   - [AlterConf](https://alterconf.com/)
-  
+
      AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
@@ -313,24 +313,28 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
-    
+
   - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
 
-  The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
+    The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
+
+  - [Women in Tech Summit Series](http://womenintechsummit.net/)
+
+    The Women in Tech Summit is a series of events that inspire, educate and connect women in the technology industry, from every level from students to senior executives. Events are held in Denver, Philadelphia, Raleigh-Durham, and Washington, D.C.
 
   - [Women Who Tech](http://womenwhotech.com/)
 
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-    
+
   - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
   
-     Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
+    Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
 
     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
-### Communities/Groups 
+### Communities/Groups
 ([Go to top](#awesome4girls--))
 
   Online communities and groups.
@@ -349,22 +353,22 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Chatrooms
 ([Go to top](#awesome4girls--))
-  
+
   Online chatrooms such as slack teams, gitter, IRC etc.
-  
+
   - [Women in Tech](http://witchat.github.io/)
 
-    A safe, confidential space for women who work in technology to chat and support each other. 
+    A safe, confidential space for women who work in technology to chat and support each other.
 
   - [Women TechMakers](https://www.womentechmakers.com/)
 
     Early to mid-level career women who want to propel their career to senior level. Apply to join.
-  
+
   - [Systers](https://anitab.org/systers/)
 
     A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
 
-### Mentorship 
+### Mentorship
 ([Go to top](#awesome4girls--))
 
   Projects with mentoring opportunities.
@@ -393,10 +397,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
 
-## Other Initiatives 
+## Other Initiatives
 ([Go to top](#awesome4girls--))
 
-### Awards 
+### Awards
 ([Go to top](#awesome4girls--))
 
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
@@ -407,7 +411,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
-### Speakers 
+### Speakers
 ([Go to top](#awesome4girls--))
 
   - [CallbackWomen](http://www.callbackwomen.com/)
@@ -419,7 +423,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.  
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
-### Content 
+### Content
 ([Go to top](#awesome4girls--))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
@@ -443,14 +447,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-  
+
     Collaborative blog to give voice to women in computing, science and technology. The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
 
   - [WomenTechmakers](https://www.womentechmakers.com/)
 
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
-### Documentaries/Movies 
+### Documentaries/Movies
 ([Go to top](#awesome4girls--))
 
   - [Code Girls](http://www.codegirlmovie.com/)
@@ -462,7 +466,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [She++ The Documentary](http://sheplusplus.org/film/)
     The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
 
-### Jobs 
+### Jobs
 ([Go to top](#awesome4girls--))
 
   - [Outreach Program for Women](https://www.gnome.org/opw/)
@@ -473,7 +477,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [PowerToFly](https://www.powertofly.com/)
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
-    
+
   - [Rewriting the Code](http://rewritingthecode.org)
     The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
 
