@@ -1,4 +1,4 @@
-# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+﻿# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -167,7 +167,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
-    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEAM industries. 
+    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops that bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
+
 
 ## Initiatives/Programs 
 ([Go to top](#awesome4girls--))
