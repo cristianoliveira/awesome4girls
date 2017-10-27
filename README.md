@@ -308,6 +308,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+    
+  - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
+
+  The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
 
   - [Women Who Tech](http://womenwhotech.com/)
 
