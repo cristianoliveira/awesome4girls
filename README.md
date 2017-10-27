@@ -163,7 +163,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
 
-    The Women in Tech Summit inspires, educates and connects women in the technology industry. Join us for a unique combination of deep-dive, hands-on tech workshops; information and discussions about careers in tech and how to pursue them; and connection and networking opportunities with other women in various aspects and careers in technology.
+    The Women in Tech Summit inspires, educates and connects women in the technology industry.
 
 ## Initiatives/Programs 
 ([Go to top](#awesome4girls--))
