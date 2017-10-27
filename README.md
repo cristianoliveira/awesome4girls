@@ -137,6 +137,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
+  - [Catalyst Conference](http://catalystsf.girlsintech.org/)
+
+    Catalyst Conference is three incredible days of raw, gritty, authentic “TedX-style” presentations from some of the most revered women in tech, business and leadership.
+
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
