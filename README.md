@@ -318,7 +318,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
 
-  - [Women in Tech Summit Series](https://womenintechsummmit.net)
+  - [Women in Tech Summit Series](http://womenintechsummit.net/)
 
     The Women in Tech Summit is a series of events that inspire, educate and connect women in the technology industry, from every level from students to senior executives. Events are held in Denver, Philadelphia, Raleigh-Durham, and Washington, D.C.
 
