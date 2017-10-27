@@ -324,7 +324,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
   - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
   
-  Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
+     Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
 
