@@ -6,38 +6,39 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Table of Contents
 * [Other Lists](#other-lists)
 * [Meetups/Events](#meetupsevents)
-   * [Clojure](#clojure)
-   * [Go-lang](#go-lang)
-   * [Java](#java)
-   * [Javascript](#javascript)
-   * [Python](#python)
-   * [PHP](#php)
-   * [Ruby](#ruby)
-   * [UX](#ux)
-   * [General](#general)
+  * [Clojure](#clojure)
+  * [Go-lang](#go-lang)
+  * [Java](#java)
+  * [Javascript](#javascript)
+  * [Python](#python)
+  * [PHP](#php)
+  * [Ruby](#ruby)
+  * [UX](#ux)
+  * [General](#general)
 * [Initiatives/Programs](#initiativesprograms)
-   * [Academy/Camp](#academycamp)
-   * [Linux/OpenSource](#linuxopensource)
-   * [Conferences/Talks](#conferencestalks)
-   * [Communities/Groups](#communitiesgroups)
-   * [Chatrooms](#chatrooms)
-   * [Mentorship](#mentorship)
+  * [Academy/Camp](#academycamp)
+  * [Linux/OpenSource](#linuxopensource)
+  * [Conferences/Talks](#conferencestalks)
+  * [Communities/Groups](#communitiesgroups)
+  * [Chatrooms](#chatrooms)
+  * [Mentorship](#mentorship)
 * [Other Initiatives](#other-initiatives)
-   * [Awards](#awards)
-   * [Speakers](#speakers)
-   * [Content](#content)
-   * [Documentaries/Movies](#documentariesmovies)
-   * [Jobs](#jobs)
+  * [Awards](#awards)
+  * [Speakers](#speakers)
+  * [Content](#content)
+  * [Documentaries/Movies](#documentariesmovies)
+  * [Jobs](#jobs)
 
 ----
 
-### Other Lists
+## Other Lists
 
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
+
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
 
-### Meetups/Events
+## Meetups/Events
 ([Go to top](#awesome4girls--))
 
   This section contains all the specifics for meetups/events.
@@ -126,7 +127,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
-### General
+## General
 ([Go to top](#awesome4girls--))
 
   - [Ada Lovelace Day](https://findingada.com/)
@@ -363,10 +364,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women in Tech](http://witchat.github.io/)
 
     A safe, confidential space for women who work in technology to chat and support each other.
-
-  - [Women TechMakers](https://www.womentechmakers.com/)
-
-    Early to mid-level career women who want to propel their career to senior level. Apply to join.
 
   - [Systers](https://anitab.org/systers/)
 
