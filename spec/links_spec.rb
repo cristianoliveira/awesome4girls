@@ -18,17 +18,18 @@ describe 'links' do
     links.each do |link|
       puts "Trying to reach #{link}"
 
-      res = request(link)
+      response = request(link)
 
-      expect(success_status).to include(res.status), broken_links_error(link, res)
+      expect(success_status).to include(response.status),
+        broken_links_error(link, response)
     end
   end
 
   private
 
   def duplicated_links_error(links)
-    duplicateds = links.detect{ |e| links.count(e) > 1}
-    "Links #{duplicateds} appear more than once on the list."
+    duplicated_links = links.detect{ |e| links.count(e) > 1}
+    "Links #{duplicated_links} appear more than once on the list."
   end
 
   def broken_links_error(link, response)

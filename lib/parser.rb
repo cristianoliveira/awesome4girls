@@ -43,6 +43,6 @@ class AwesomeListRender
   private
 
     def internal?(link)
-      link['href'][0] == '#'
+      link['href'].start_with?('#')
     end
 end

@@ -3,7 +3,7 @@ require 'rspec/core/rake_task'
 
 RSpec::Core::RakeTask.new(:spec)
 
-task :all => :spec
+task :default => :spec
 
 namespace :gen do
   desc "Generate an html version of this list"
