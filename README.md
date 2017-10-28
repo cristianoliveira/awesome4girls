@@ -37,20 +37,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-
-## Meetups/Events
-([Go to top](#awesome4girls--))
+## Meetups/Events ([Go to top](#awesome4girls--))
 
   This section contains all the specifics for meetups/events.
 
-### Clojure
-([Go to top](#awesome4girls--))
+### Clojure ([Go to top](#awesome4girls--))
   - [ClojureBridge](http://www.clojurebridge.org)
-
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
-
-### Go-lang
-([Go to top](#awesome4girls--))
+### Go-lang ([Go to top](#awesome4girls--))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
@@ -69,10 +63,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Js-Girls](http://js-girls.org/)
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
-
-  - [Js4Girls](http://js4girls.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-
-    A Brazilian initiative to provide FREE classes on javascript to women in a male-free environment.
 
   - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -193,7 +183,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 
-  - [Chicas Poderosas](http://www.chicaspoderosas.org/)
+  - [Chicas Poderosas](https://chicaspoderosas.org/home/)
 
     Chicas Poderosas is a community working to bring Latina women in the Americas into the forefront of digital journalism. Through events, meetups and mentoring, Chicas aims to engage more women in developing news applications, producing interactive content, and integrating new tools into their newsrooms.
 
@@ -203,7 +193,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
-    DigiGirlz Day is a Microsoft-sponsored, one-day event designed to provide middle and high school girls with a better understanding of career opportunities. This opportunity offers attendees career planning assistance, exercises, and Microsoft product demonstrations -- all while interacting with real Microsoft employees and managers. Previously, this event has taken place across the globe at Microsoft locations like Nashville, TN; San Diego, CA; and Cairo, Egypt, with future sites listed [here](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx).
+    DigiGirlz Day is a Microsoft-sponsored, one-day event designed to provide middle and high school girls with a better understanding of career opportunities. This opportunity offers attendees career planning assistance, exercises, and Microsoft product demonstrations -- all while interacting with real Microsoft employees and managers. Previously, this event has taken place across the globe at Microsoft locations like Nashville, TN; San Diego, CA; and Cairo, Egypt, with future sites listed.
 
   - [DIY Girls](http://www.diygirls.org/)
 
@@ -282,18 +272,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
     A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
-    
+
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
     The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
-    
+
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
-
-  - [Lady Talks](http://ladytalks.technology/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-
-    Women talking technology for themselves. Transgender people, transvestites and non-binary are also welcomed.
 
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
@@ -332,7 +318,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
   - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-  
+
     Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
@@ -421,7 +407,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.  
+    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
 ### Content
