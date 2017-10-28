@@ -8,8 +8,10 @@ class AwesomeListRender
     self.new(html)
   end
 
+  attr_reader :raw_html
+
   def initialize(html)
-    @raw = html
+    @raw_html = html
     @html = Nokogiri::HTML(html)
   end
 
@@ -36,10 +38,6 @@ class AwesomeListRender
 
   def internal_links
     @html.css('li a').select { |link| internal?(link) }
-  end
-
-  def to_html
-    @raw
   end
 
   private
