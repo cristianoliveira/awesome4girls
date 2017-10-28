@@ -6,14 +6,14 @@ describe 'links' do
   let(:readme) { File.open("README.md").read }
   let(:list) { AwesomeListRender.parse(readme) }
 
-  it 'must not appears twice' do
-    list_links = list.project_links.map { |l| l['href'] }
+  it 'must not appear twice' do
+    list_links = list.project_links.map { |l| l.map{|ll| ll['href'] }}.flatten
     expect(list_links).to eq(list_links.uniq), duplicated_links_error(list_links)
   end
 
   it 'must not have broken links' do
     success_status = [ 200, 301, 302 ]
-    links = list.project_links.map { |l| l['href'] }
+    links = list.project_links.map { |l| l.map{|ll| ll['href'] }}.flatten
 
     links.each do |link|
       puts "Trying to reach #{link}"

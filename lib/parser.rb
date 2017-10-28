@@ -17,8 +17,21 @@ class AwesomeListRender
     @html.css('a')
   end
 
+  def summary
+    @html.css('body>ul:first')
+  end
+
+  def section_titles
+    @html.css('body>h2')[1..100]
+  end
+
+  def subsection_titles
+    @html.css('body>h3')
+  end
+
   def project_links
-    @html.css('li a').select { |link| !internal?(link) }
+    @html.css('ul')[1..100].map{|list| list.css('>li a')
+      .select{|l| !internal?(l)}}
   end
 
   def internal_links
