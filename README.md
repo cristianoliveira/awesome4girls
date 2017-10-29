@@ -310,6 +310,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
 
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    The conference features nationally speakers who share their wisdom and expertise on a wide range of personal and professional development topics.
+
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
