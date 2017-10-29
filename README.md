@@ -14,6 +14,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Ruby](#ruby)
   * [UX](#ux)
 * [General](#general)
+  *[Women of Siicon Roundabout](http://www.women-in-technology.com/)
 * [Initiatives/Programs](#initiativesprograms)
   * [Academy/Camp](#academycamp)
   * [Chatrooms](#chatrooms)
