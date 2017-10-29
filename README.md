@@ -157,14 +157,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-  - [Wonder Women Tech Summit](https://wonderwomentech.com/)
-
-    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
-
   - [Women of Silicon Roundabout](http://www.women-in-technology.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
 
     Women of Silicon Roundabout enables people and organisations to connect, learn and take action on gender diversity and inclusion. We do not shy away from controversy and we look to open people's minds to new ideas by pushing boundaries.
     Through inspirational keynotes, panel discussions on business strategy, technical classes, and career development workshops, this conference provides all the content and networking opportunities needed to flourish in the tech sector.
+
+  - [Wonder Women Tech Summit](https://wonderwomentech.com/)
+
+    Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
 
 ## Initiatives/Programs
 ([Go to top](#awesome4girls---))
