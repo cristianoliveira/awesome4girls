@@ -149,6 +149,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink about existing technology.
 
+  - [Tech Ladies Brasil](http://www.techladies.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+
+    The Tech Ladies Brasil network is a space driven by women who dedicate their time through volunteer work for the exchange of knowledge, professional advancement, personal development and appreciation of women. We hold workshops and an annual event, From Ladies To Ladies, that bring three fronts: lectures, workshops and round tables; discuss topics aligned with the purpose of Tech Ladies Brazil, women's empowerment in technology.
+
   - [Technovation](http://www.technovationchallenge.org/)
 
     The global technology entrepreneurship program for girls. Students work in teams to develop mobile app startups to solve real problems in their communities.
@@ -165,6 +169,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
+
 
 ## Initiatives/Programs
 ([Go to top](#awesome4girls---))
@@ -235,6 +240,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+  
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
