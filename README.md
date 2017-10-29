@@ -28,7 +28,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
    * [Content](#content)
    * [Documentaries/Movies](#documentariesmovies)
    * [Jobs](#jobs)
-
+* [Orgranization toolkits](#organization-toolkits)
 ----
 
 ### Other Lists
@@ -489,6 +489,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Rewriting the Code](http://rewritingthecode.org)
     The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
 
+### Orgranization toolkits
+
+If you are trying to organize your own events, these resoures might help.
+
+  - [AdaCamp Toolkit](https://adacamp.org/)
+    Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences. 
+    
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
