@@ -32,7 +32,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Events/Meetups
-([Gr to top](#awesome4girls--))
+([Go to top](#awesome4girls--))
 
   This section contains all the specifics for meetups/events.
 
@@ -40,6 +40,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ([Go to top](#awesome4girls--))
 
   - [ClojureBridge](http://www.clojurebridge.org)
+
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
 ### Go-lang
@@ -478,11 +479,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+([Go to top](#awesome4girls--))
 
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
-
-([Go to top](#awesome4girls--))
