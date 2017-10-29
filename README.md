@@ -334,6 +334,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
+  - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
+
 ### Communities/Groups
 ([Go to top](#awesome4girls---))
 
