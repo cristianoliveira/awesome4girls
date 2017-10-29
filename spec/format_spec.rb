@@ -39,8 +39,7 @@ describe 'formatting the list' do
         list.projects.each_with_index do |project, i|
           link_texts = project.css('li a').map {|a| a.children.text.downcase }
 
-          expect(link_texts).to eq(link_texts.sort),
-            project_sort_error(list.subsection_titles[i-1], link_texts)
+          expect(link_texts).to eq(link_texts.sort), project_sort_error(link_texts)
         end
       end
     end
@@ -63,6 +62,7 @@ describe 'formatting the list' do
 
       it 'must end with a period' do
         list.projects.css('li').each do |project|
+
           expect(project.css('p').last).to_not be_nil,
             "Expected to have a paragraph (empty line) after the link for description."
 
@@ -75,9 +75,31 @@ describe 'formatting the list' do
         end
       end
     end
+
+    it 'must have a link and description' do
+      list.projects.css('li').each do |project|
+
+        blocks = project.css('p')
+
+        expect(blocks.size).to eq(2),
+          must_have_error("a valid link and description", blocks)
+
+        link  = blocks[0].css('a')
+        expect(link).to_not be_empty, must_have_error("a valid link", link)
+
+        expect(blocks.last.text).to_not be_nil,
+          must_have_error("a paragraph for description", blocks.last)
+      end
+    end
   end
 
   private
+
+  def must_have_error(message, item)
+    "Each project must have #{message}. Looks like it doesn't have. \n" +
+      "Item: #{item} \n"+
+      "For more details see the CONTRIBUTING.md"
+  end
 
   def project_format_error(project, motive)
     "Project: #{project.css('p a').children.text} has a wrong format.\n" +
@@ -85,8 +107,8 @@ describe 'formatting the list' do
       "For more details see the CONTRIBUTING.md"
   end
 
-  def project_sort_error(section, links)
-    "The links of #{section} are in wrong order.\n" +
+  def project_sort_error(links)
+    "The links of a section are in wrong order.\n" +
       "Expected \n #{links.sort} \n got \n #{links} \n" +
       "For more details see the CONTRIBUTING.md"
   end

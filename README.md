@@ -153,6 +153,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The global technology entrepreneurship program for girls. Students work in teams to develop mobile app startups to solve real problems in their communities.
 
+  - [Women of Silicon Roundabout](http://www.women-in-technology.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="United Kingdom" width="30">
+
+    Women of Silicon Roundabout enables people and organisations to connect, learn and take action on gender diversity and inclusion. We do not shy away from controversy and we look to open people's minds to new ideas by pushing boundaries.
+    Through inspirational keynotes, panel discussions on business strategy, technical classes, and career development workshops, this conference provides all the content and networking opportunities needed to flourish in the tech sector.
+
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
@@ -161,7 +166,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
 
-    - [Tech Ladies Brasil](http://www.techladies.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+  - [Tech Ladies Brasil](http://www.techladies.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
     The Tech Ladies Brasil network is a space driven by women who dedicate their time through volunteer work for the exchange of knowledge, professional advancement, personal development and appreciation of women. We hold workshops and an annual event, From Ladies To Ladies, that bring three fronts: lectures, workshops and round tables; discuss topics aligned with the purpose of Tech Ladies Brazil, women's empowerment in technology.
 
@@ -291,7 +296,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 
-  - [Johnson Women in Technology Conference] (http://www.johnsonwomenintech.com)
+  - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
 
     The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
 
@@ -310,6 +315,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [SWE](http://societyofwomenengineers.swe.org/)
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+
+  - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
 
   - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
