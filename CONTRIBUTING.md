@@ -4,7 +4,8 @@ Conduct](https://github.com/cristianoliveira/awesome4girls/blob/master/CODE_OF_C
 
 ----
 
-Please ensure your pull request adheres to the following guidelines:
+First of all thanks for contributing.
+Please ensure your pull request adheres to the following guidelines (it is enforced by specs):
 
 ### About Content
 
@@ -12,18 +13,23 @@ Please ensure your pull request adheres to the following guidelines:
   - Make sure that your list is useful before submitting which implies that it has enough content and every item has a good description.
   - A link back to this list from yours, so that the users can discover more lists, would be appreciated.
   - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+  - The titles must be sorted alphabetically to make easy for searching.
   - Use the following template:
 
 ```
   - [Name](link)
+  (empty line)
     Some awesome description.
+  (empty line)
 ```
 
 If it is not an international event/organization (no english version site) use:
 
 ```
   - [Name](link) *Loc* <country flag from wikipedia>
+  (empty line)
     Some awesome description.
+  (empty line)  
 ```
 
 - Link additions should be added to the bottom of the relevant category.
