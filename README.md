@@ -281,6 +281,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 
+  - [Johnson Women in Technology Conference] (http://www.johnsonwomenintech.com)
+  
+    The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
+  
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
     Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
