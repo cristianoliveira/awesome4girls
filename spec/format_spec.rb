@@ -48,6 +48,10 @@ describe 'formatting the list' do
     context 'descriptions' do
       it 'must start with captalized letter' do
         list.projects.css('li').each do |project|
+
+          expect(project.css('p').last).to_not be_nil,
+            "Expected to have a paragraph (empty line) after the link for description."
+
           description = project.css('p').last.text
 
           expect(description).to start_with(description[0].upcase),
@@ -59,6 +63,9 @@ describe 'formatting the list' do
 
       it 'must end with a period' do
         list.projects.css('li').each do |project|
+          expect(project.css('p').last).to_not be_nil,
+            "Expected to have a paragraph (empty line) after the link for description."
+
           description = project.css('p').last.text
 
           expect(description.chars.last).to eq('.'),
