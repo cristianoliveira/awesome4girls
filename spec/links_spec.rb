@@ -5,16 +5,14 @@ require 'faraday'
 describe 'links' do
   let(:readme) { File.open("README.md").read }
   let(:list) { AwesomeList.parse(readme) }
+  let(:links) { list.projects.css('li a').map { |a| a['href'] } }
 
   it 'must not appear twice' do
-    links = list.projects.css('li a').map { |a| a['href'] }
     expect(links).to eq(links.uniq), duplicated_links_error(links)
   end
 
   it 'must not have broken links' do
     success_status = [ 200, 301, 302 ]
-    links = list.projects.css('li a').map { |a| a['href'] }
-
     links.each do |link|
       puts "Trying to reach #{link}"
 
