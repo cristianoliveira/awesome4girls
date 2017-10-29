@@ -301,6 +301,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
+  - [Watermark Conference for Women](https://www.watermarkconferenceforwomen.org/conference/)
+
+    Watermark’s Conference for Women offers the community and connection, the information and inspiration, the motivation and momentum to help you discover what you want—and go get it! The conference features nationally recognized speakers who share their wisdom and expertise on a wide range of personal and professional development topics, helping you find clarity on your goals and what you need to accomplish them.
+
   - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
