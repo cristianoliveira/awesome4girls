@@ -271,7 +271,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
   - [European Women In Technology](http://www.europeanwomenintech.com)
   
-    Learn from industry leaders, connect with people from all areas of tech, and maximise your potential with empowering workshops. Let’s change the industry for the better.
+    A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
 
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
