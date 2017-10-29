@@ -4,7 +4,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Table of Contents
-* [Events/Meetups](#meetupsevents)
+* [Events/Meetups](#eventsmeetups)
   * [Clojure](#clojure)
   * [Go-lang](#go-lang)
   * [Java](#java)
@@ -33,33 +33,33 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Events/Meetups
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   This section contains all the specifics for meetups/events.
 
 ### Clojure
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
 ### Go-lang
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
     We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [JDuchess](http://www.jduchess.org/)
 
     Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Js-Girls](http://js-girls.org/)
 
@@ -74,7 +74,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
 ### Python
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Django Girls](https://djangogirls.org/)
 
@@ -85,14 +85,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
 
 ### PHP
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [PHPWomen](https://phpwomen.org/)
 
     We're an inclusive, global user-group providing a support network within the PHP community.
 
 ### Ruby
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Rails Bridge](http://www.railsbridge.org/)
 
@@ -107,7 +107,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Getting more women into Open Source.
 
 ### UX
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Ladies that UX](http://ladiesthatux.com/)
 
@@ -119,7 +119,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ## General
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Ada Lovelace Day](https://findingada.com/)
 
@@ -163,12 +163,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 
 ## Initiatives/Programs
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Initiatives that have the goal to prepare women for a tech career.
 
 ### Academy/Camp
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Projects that have any kind of Academy/Summer Camp in its activities.
 
@@ -233,7 +233,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Projects where an open source organization is behind it.
 
@@ -258,7 +258,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
 ### Conferences/Talks
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Conferences that bring the subject.
 
@@ -338,7 +338,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
 ### Communities/Groups
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Online communities and groups.
 
@@ -355,7 +355,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
 ### Chatrooms
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Online chatrooms such as slack teams, gitter, IRC etc.
 
@@ -368,7 +368,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     A safe, confidential space for women who work in technology to chat and support each other.
 
 ### Mentorship
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   Projects with mentoring opportunities.
 
@@ -397,10 +397,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
 
 ## Other Initiatives
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
 ### Awards
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
 
@@ -411,7 +411,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
 
 ### Speakers
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [CallbackWomen](http://www.callbackwomen.com/)
 
@@ -423,7 +423,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
 ### Content
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
@@ -458,7 +458,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
 ### Documentaries/Movies
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Code Girls](http://www.codegirlmovie.com/)
 
@@ -473,7 +473,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
 
 ### Jobs
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [Outreach Program for Women](https://www.gnome.org/opw/)
 
@@ -492,7 +492,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
 ### Organisation toolkits
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   If you are trying to organize your own events, these resoures might help.
 
@@ -501,7 +501,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences.
 
 ## Other Lists
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
 
@@ -510,6 +510,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-([Go to top](#awesome4girls--))
+([Go to top](#awesome4girls---))
 
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
