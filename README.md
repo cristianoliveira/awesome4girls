@@ -1,4 +1,4 @@
-# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+# awesome4girls [![Build Status](https://travis-ci.org/cristianoliveira/awesome4girls.svg?branch=master)](https://travis-ci.org/cristianoliveira/awesome4girls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -271,7 +271,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
     The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
-
+    
+  - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
+  
+    This annual free event is the only conference for women in technology held around the globe offering complete access for everyone to attend and to participate physically or virtually removing all barriers to participation. Representatives present individually and collectively to discuss, collaborate and celebrate the contributions of technical women.
+    
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
