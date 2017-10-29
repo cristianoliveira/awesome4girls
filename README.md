@@ -6,7 +6,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Table of Contents
 * [Events/Meetups](#meetupsevents)
   * [Clojure](#clojure)
-  * [General](#general)
   * [Go-lang](#go-lang)
   * [Java](#java)
   * [Javascript](#javascript)
@@ -14,6 +13,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Python](#python)
   * [Ruby](#ruby)
   * [UX](#ux)
+* [General](#general)
 * [Initiatives/Programs](#initiativesprograms)
   * [Academy/Camp](#academycamp)
   * [Chatrooms](#chatrooms)
