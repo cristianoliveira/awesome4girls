@@ -268,6 +268,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
     A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
+    
+  - [European Women In Technology](http://www.europeanwomenintech.com)
+  
+    Learn from industry leaders, connect with people from all areas of tech, and maximise your potential with empowering workshops. Let’s change the industry for the better.
 
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
