@@ -1,20 +1,18 @@
-require_relative '../lib/parser'
+require_relative '../lib/awesome_list'
 require 'net/http'
 require 'faraday'
 
 describe 'links' do
   let(:readme) { File.open("README.md").read }
-  let(:list) { AwesomeListRender.parse(readme) }
+  let(:list) { AwesomeList.parse(readme) }
+  let(:links) { list.projects.css('li a').map { |a| a['href'] } }
 
   it 'must not appear twice' do
-    list_links = list.project_links.map { |l| l.map{|ll| ll['href'] }}.flatten
-    expect(list_links).to eq(list_links.uniq), duplicated_links_error(list_links)
+    expect(links).to eq(links.uniq), duplicated_links_error(links)
   end
 
   it 'must not have broken links' do
     success_status = [ 200, 301, 302 ]
-    links = list.project_links.map { |l| l.map{|ll| ll['href'] }}.flatten
-
     links.each do |link|
       puts "Trying to reach #{link}"
 
