@@ -48,7 +48,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
-    We are women in the #golang community. Twitter: https://twitter.com/womenwhogo
+    We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
 ([Go to top](#awesome4girls--))
@@ -103,7 +103,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
-    Getting more women into Open Source!
+    Getting more women into Open Source.
 
 ### UX
 ([Go to top](#awesome4girls--))
@@ -191,13 +191,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Code First Girl runs free part-time coding courses for young women across the UK, from St Andrews to Southampton. Most courses are run as University chapters, with graduate courses run in London.
 
-  - [DIY Girls](http://www.diygirls.org/)
-
-    DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
-
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
     DigiGirlz Day is a Microsoft-sponsored, one-day event designed to provide middle and high school girls with a better understanding of career opportunities. This opportunity offers attendees career planning assistance, exercises, and Microsoft product demonstrations -- all while interacting with real Microsoft employees and managers. Previously, this event has taken place across the globe at Microsoft locations like Nashville, TN; San Diego, CA; and Cairo, Egypt, with future sites listed.
+
+  - [DIY Girls](http://www.diygirls.org/)
+
+    DIY (“Do-It-Yourself”) Girls’ mission is to increase girls’ interest and success in technology, engineering and making through innovative educational experiences and mentor relationships. DIY Girls develops and implements educational programs and events designed to encourage engagement with technology, promote self-confidence and support aspiration to technical careers.
 
   - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -221,7 +221,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ladies Learning Code](http://ladieslearningcode.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
 
-    We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way
+    We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way.
 
   - [Minas Program](http://minasprogramam.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
@@ -250,7 +250,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
 
-    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute
+    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute.
 
   - [Ubuntu Women](http://wiki.ubuntu-women.org/)
 
@@ -293,10 +293,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
 
-  - [SWE](http://societyofwomenengineers.swe.org/)
-
-    The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
-
   - [She's Geeky](http://shesgeeky.org/)
 
     The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
@@ -308,6 +304,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
     Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.  The purpose of the event is to take the fear factor out of technology and empower women to surf the technology wave.
 
+  - [SWE](http://societyofwomenengineers.swe.org/)
+
+    The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+
   - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
@@ -315,10 +315,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
-
-  - [Women Who Tech](http://womenwhotech.com/)
-
-    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
   - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
 
@@ -331,6 +327,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
+
+  - [Women Who Tech](http://womenwhotech.com/)
+
+    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
 
