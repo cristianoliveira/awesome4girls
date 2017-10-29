@@ -32,7 +32,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ----
 
 ## Events/Meetups
-([Gr to top](#awesome4girls--))
+([Go to top](#awesome4girls--))
 
   This section contains all the specifics for meetups/events.
 
@@ -40,6 +40,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ([Go to top](#awesome4girls--))
 
   - [ClojureBridge](http://www.clojurebridge.org)
+
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
 ### Go-lang
@@ -271,11 +272,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
     The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
-    
+
   - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
-  
+
     This annual free event is the only conference for women in technology held around the globe offering complete access for everyone to attend and to participate physically or virtually removing all barriers to participation. Representatives present individually and collectively to discuss, collaborate and celebrate the contributions of technical women.
-    
+
   - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
 
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
@@ -474,11 +475,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+([Go to top](#awesome4girls--))
 
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
-
-([Go to top](#awesome4girls--))
