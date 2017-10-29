@@ -21,7 +21,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Conferences/Talks](#conferencestalks)
   * [Linux/OpenSource](#linuxopensource)
   * [Mentorship](#mentorship)
-* [Orgranisation toolkits](#organisation-toolkits)  
+* [Organisation toolkits](#organisation-toolkits)
 * [Other Initiatives](#other-initiatives)
   * [Awards](#awards)
   * [Content](#content)
@@ -269,9 +269,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
     A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
-    
+
   - [European Women In Technology](http://www.europeanwomenintech.com)
-  
+
     A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
 
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
@@ -287,9 +287,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
 
   - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
-  
+
     The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
-  
+
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
     Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
@@ -301,7 +301,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
     A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
-    
+
   - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
     Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.  The purpose of the event is to take the fear factor out of technology and empower women to surf the technology wave.
 
@@ -461,35 +461,44 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ([Go to top](#awesome4girls--))
 
   - [Code Girls](http://www.codegirlmovie.com/)
+
     Documentary about girls who code and develop app ideas for the Technovation Challenge address issues in their community and try to solve problems through the use of technology.
 
   - [She started it](http://www.shestarteditfilm.com/)
+
     Meet five young women determined to pursue their start-up dreams. She Started It is a documentary by Nora Poggi and Insiyah Saeed following Stacey Ferreira, Thuy Truong, Brienne Ghafourifar, Sheena Allen and Agathe Molinar over the course of 2+ years, illuminating the ups and downs these entrepreneurs face in building new businesses.
 
   - [She++ The Documentary](http://sheplusplus.org/film/)
+
     The Documentary (12 min: TV-14 DL; Released April 1, 2013) introduces the world of technology by following the stories of smart, creative, and trailblazing good girls gone geek.
 
 ### Jobs
 ([Go to top](#awesome4girls--))
 
   - [Outreach Program for Women](https://www.gnome.org/opw/)
+
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
 
   - [PowerToFly](https://www.powertofly.com/)
+
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
 
   - [Rewriting the Code](http://rewritingthecode.org)
-    The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
-    
-  - [Women in Tech](http://www.womenintechnology.co.uk/)
-    Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
-    
-### Orgranisation toolkits
 
-If you are trying to organize your own events, these resoures might help.
+    The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
+
+  - [Women in Tech](http://www.womenintechnology.co.uk/)
+
+    Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
+
+### Organisation toolkits
+([Go to top](#awesome4girls--))
+
+  If you are trying to organize your own events, these resoures might help.
 
   - [AdaCamp Toolkit](https://adacamp.org/)
-    Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences. 
+
+    Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences.
 
 ## Other Lists
 ([Go to top](#awesome4girls--))
