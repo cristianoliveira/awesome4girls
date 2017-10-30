@@ -312,12 +312,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
-  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
-    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.  The purpose of the event is to take the fear factor out of technology and empower women to surf the technology wave.
-
   - [SWE](http://societyofwomenengineers.swe.org/)
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+
+  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
+
+    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
+    The purpose of the event is to take the fear factor out of technology and empower women.
 
   - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
