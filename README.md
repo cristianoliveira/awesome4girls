@@ -240,7 +240,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
-  
+
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
@@ -316,6 +316,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
 
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    The conference features nationally speakers who share their wisdom and expertise on a wide range of personal and professional development topics.
+
   - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
@@ -323,10 +327,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
-
-  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    The conference features nationally speakers who share their wisdom and expertise on a wide range of personal and professional development topics.
 
   - [WITI](http://www.witi.com/)
 
