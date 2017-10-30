@@ -4,6 +4,7 @@ Conduct](https://github.com/cristianoliveira/awesome4girls/blob/master/CODE_OF_C
 
 ----
 
+
 First of all thanks for contributing.
 Please ensure your pull request adheres to the following guidelines (it is enforced by specs):
 
