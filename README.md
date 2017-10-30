@@ -519,6 +519,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
+
+    A curated list of amazingly awesome articles, websites and resources about diversity in technology.
+    
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
