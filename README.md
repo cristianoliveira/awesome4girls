@@ -513,7 +513,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Ada Camp used to be a popular conference dedicated to increasing women’s participation in open technology and culture, but it's no longer run. However, they have released all their guides and resources in the form the open source AdaCamp Toolkit for those who want to organize their own feminist conferences.
 
 ## Other Lists
-([Go to top](#awesome4girls---)
+([Go to top](#awesome4girls---))
   
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
 
