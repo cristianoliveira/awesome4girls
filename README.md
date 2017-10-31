@@ -318,7 +318,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    The conference features nationally speakers who share their wisdom and expertise on a wide range of personal and professional development topics.
+    The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
+
+  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
+
+    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
+    The purpose of the event is to take the fear factor out of technology and empower women.
 
   - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -513,11 +518,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ## Other Lists
 ([Go to top](#awesome4girls---))
+  
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
 
+    A curated list of amazingly awesome articles, websites and resources about diversity in technology.
+    
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
-
+    
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
