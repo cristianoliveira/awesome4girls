@@ -316,7 +316,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
 
-  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
 
@@ -518,15 +518,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ## Other Lists
 ([Go to top](#awesome4girls---))
-  
+
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
-    
+
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
-    
+
 ----
 
 # License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
