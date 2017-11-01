@@ -321,6 +321,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
     The purpose of the event is to take the fear factor out of technology and empower women.
 
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org/conference/)
+
+    Watermark’s Conference for Women offers the community and connection, the information and inspiration, the motivation and momentum to help you discover what you want—and go get it! The conference features nationally recognized speakers who share their wisdom and expertise on a wide range of personal and professional development topics, helping you find clarity on your goals and what you need to accomplish them.
+
   - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
