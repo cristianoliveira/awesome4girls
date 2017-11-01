@@ -325,10 +325,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
 
-  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
-
   - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
