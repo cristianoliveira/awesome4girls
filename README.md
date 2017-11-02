@@ -461,6 +461,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Made with Code is an initiative launched by Google on 19 July 2014. Google's aim is to to empower young women in middle and high schools with computer programming skills. The website revolves around providing online activities for young girls to learn to code.
 
+  - [OxenTIMenina](http://oxentimenina.com.br)
+
+    They aim to connect girls and women with the opportunity to have experience and make technology no matter which social class they're come from, their knowlodge or anything that is considered a limitation.
+
   - [PrograMaria](http://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     PrograMaria is an initiative to involve more girls and women in the tech and programming area. The content production and events are produced under three pillars: Inspire, Discuss and Learn.
