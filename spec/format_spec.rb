@@ -80,9 +80,6 @@ describe 'formatting the list' do
       list.projects.css('li').each do |project|
 
         blocks = project.css('p')
-        if blocks.size != 2
-          require 'byebug'; byebug
-        end
         expect(blocks.size).to eq(2),
           must_have_error("a valid link and description", project)
 
