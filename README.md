@@ -65,7 +65,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   
   A Brazilian initiative to provide free javascript classes to women in a male-free environment.
 
-
   - [Js-Girls](http://js-girls.org/)
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
