@@ -80,24 +80,32 @@ describe 'formatting the list' do
       list.projects.css('li').each do |project|
 
         blocks = project.css('p')
-
+        if blocks.size != 2
+          require 'byebug'; byebug
+        end
         expect(blocks.size).to eq(2),
-          must_have_error("a valid link and description", blocks)
+          must_have_error("a valid link and description", project)
 
         link  = blocks[0].css('a')
-        expect(link).to_not be_empty, must_have_error("a valid link", link)
+        expect(link).to_not be_empty,
+          must_have_error("a valid link", project)
 
         expect(blocks.last.text).to_not be_nil,
-          must_have_error("a paragraph for description", blocks.last)
+          must_have_error("a paragraph for description", project)
       end
     end
   end
 
   private
 
-  def must_have_error(message, item)
+  def must_have_error(message, html)
     "Each project must have #{message}. Looks like it doesn't have. \n" +
-      "Item: #{item} \n"+
+      "HTML: #{html}\n\n"+
+      "Make sure to follow the correct template: \n\n"+
+      "(2 spaces)-(link and title) \n"+
+      "(empty line)\n"+
+      "(4 spaces)(description)\n"+
+      "(empty line)\n\n"+
       "For more details see the CONTRIBUTING.md"
   end
 
