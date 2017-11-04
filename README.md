@@ -131,7 +131,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Bay Area Girls](http://girlgeek.io/about/)
 
-    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
+    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communities. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -173,7 +173,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
-
 
 ## Initiatives/Programs
 ([Go to top](#awesome4girls---))
@@ -244,7 +243,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
-
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
