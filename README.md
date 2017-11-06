@@ -131,7 +131,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Anitas](http://anitas.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
-    Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship. 
+    Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
 
   - [Bay Area Girls](http://girlgeek.io/about/)
 
