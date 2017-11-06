@@ -64,6 +64,7 @@ describe 'formatting the list' do
             "Expected to have a paragraph (empty line) after the link for description."
 
           description = project.css('p').last.text
+          description = description.strip
 
           expect(description).to start_with(description[0].upcase),
             project_format_error(
@@ -79,6 +80,7 @@ describe 'formatting the list' do
             "Expected to have a paragraph (empty line) after the link for description."
 
           description = project.css('p').last.text
+          description = description.strip
 
           expect(description.chars.last).to eq('.'),
             project_format_error(
