@@ -18,21 +18,21 @@ Please ensure your pull request adheres to the following guidelines (it is enfor
 
 ```
   - [Name](link)
-  (empty line)
+(empty line)
     Some awesome description.
-  (empty line)
+(empty line)
 ```
 
 If it is not an international event/organization (no english version site) use:
 
 ```
   - [Name](link) *Loc* <country flag from wikipedia>
-  (empty line)
+(empty line)
     Some awesome description.
-  (empty line)  
+(empty line)
 ```
 
-- Link additions should be added to the bottom of the relevant category.
+- Project additions should be added under the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Start the bio with a capital and end with a full stop/period.
 - Check your spelling and grammar.
@@ -43,5 +43,20 @@ If it is not an international event/organization (no english version site) use:
 - Make an individual pull request for each suggestion.
 - The pull request and commit should have a useful title.
 Example: `[category]: some description of content added` for other changes please see: [semantic commits](http://seesparkbox.com/foundry/semantic_commit_messages)
+
+#### Specs
+
+Those specs here are enforced through tests. If you want to test your changes before creating your PR do:
+
+```
+# Considered you have Ruby(>2.2.0) in your machine.
+
+gem install bundle
+bundle install
+
+rake setup && rake
+```
+
+Feel free to suggest changes or add more specs.
 
 And finally, Thank so much! for your contribution!!
