@@ -42,6 +42,18 @@ describe 'formatting the list' do
           expect(link_texts).to eq(link_texts.sort), project_sort_error(link_texts)
         end
       end
+
+      it 'must not have trailling spaces' do
+        list.projects.each_with_index do |project, i|
+          link_texts = project.css('li a').map {|a| a.children.text.downcase }
+
+          link_texts.each do |text|
+            expect(text).to eq(text.strip),
+              "Make sure your text editor is set to remove trailing whitespace. \n" +
+              "Text: #{text}"
+          end
+        end
+      end
     end
 
     context 'descriptions' do
@@ -71,6 +83,18 @@ describe 'formatting the list' do
           expect(description.chars.last).to eq('.'),
             project_format_error(
               project, "Description must end with a period."
+            )
+        end
+      end
+
+      it 'must not have trailling spaces' do
+        list.projects.css('li').each do |project|
+          description = project.css('p').last.text
+
+          expect(description).to eq(description.strip),
+            project_format_error(
+              project,
+              "Make sure your text editor is set to remove trailing whitespace."
             )
         end
       end
