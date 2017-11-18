@@ -501,6 +501,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Jobs
 ([Go to top](#awesome4girls---))
 
+  - [Lane by Women 2.0](https://lane.women2.com/)
+
+    Lane is a hiring and job search platform created by Women 2.0. The focus is on women in tech and encouraging workplaces that care about making their companies more successful through inclusion.
+
   - [Outreach Program for Women](https://www.gnome.org/opw/)
 
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
