@@ -32,13 +32,14 @@ describe 'links' do
 
   def broken_links_error(link, response)
     "Link #{link} seems not be reacheable. Could you double check?. \n" +
-      "Status #{response.status} Cause #{response.body[0..400]}"
+      "Status #{response&.status} Cause #{response&.body[0..400]}"
   end
 
   def request(link)
-    Faraday.get do |req|
-      req.url link
-      req.params['User-Agent']  = 'Awesome4Girls test script'
+    begin
+      Faraday.new(link, { ssl: { verify: false } }).get('/')
+    rescue => e
+      fail "Request failed for #{link}. Cause: #{e}"
     end
   end
 end
