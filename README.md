@@ -290,6 +290,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
 
+  - [Female Founders Conference](http://www.femalefoundersconference.org/)
+
+    An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
+
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
     The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
