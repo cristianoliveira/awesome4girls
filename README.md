@@ -153,7 +153,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women in Tech Summit inspires, educates and connects women in the technology industry.
 
-  - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://pl.wikipedia.org/wiki/Flaga_Polski#/media/File:Flag_of_Poland_(normative).svg" alt="Poland" width="30">
+  - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. We gather to inspire, learn from each other, share knowledge. We believe that girls in new technologies are the avant-garde of innovation. We want to overcome stereotypes by bringing more diversity into tech world. Find out what we do, where and when you can join and start coding!
 
