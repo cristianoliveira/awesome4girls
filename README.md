@@ -155,7 +155,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
-    Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. We gather to inspire, learn from each other, share knowledge. We believe that girls in new technologies are the avant-garde of innovation. We want to overcome stereotypes by bringing more diversity into tech world. Find out what we do, where and when you can join and start coding!
+    Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
 
   - [League of Women Coders](http://lwc.tech/)
 
