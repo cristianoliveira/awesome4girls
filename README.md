@@ -368,7 +368,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
 
-    Oracle WIT Community Group - a place to share your experience and mentor women in high tech roles. Join us as we share our knowledge, technical resources and engage with other women throughout the Oracle technical community.
+    Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
 
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
