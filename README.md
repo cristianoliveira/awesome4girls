@@ -56,14 +56,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [JDuchess](http://www.jduchess.org/)
 
-    Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
+    Duchess is a global organization for women in Java technology with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
 ([Go to top](#awesome4girls---))
 
   - [Js-Girls](http://js-girls.org/)
 
-    Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
+    Js-Girls is a 1-day workshop for girls who want to learn Javascript.
 
   - [Js4Girls](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -75,14 +75,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [NodeGirls](http://nodegirls.io/)
 
-    We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
+    Node Girls runs free 1 day Node.js workshops. They provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors.
 
 ### Python
 ([Go to top](#awesome4girls---))
 
   - [Django Girls](https://djangogirls.org/)
 
-    We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
+    Free Python and Django workshops, they also create open-source online tutorials and curate amazing first experiences with technology.
 
   - [PyLadies](http://www.pyladies.com/)
 
@@ -93,7 +93,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [PHPWomen](https://phpwomen.org/)
 
-    We're an inclusive, global user-group providing a support network within the PHP community.
+    An inclusive, global user-group providing a support network within the PHP community.
 
 ### Ruby
 ([Go to top](#awesome4girls---))
@@ -180,7 +180,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
@@ -198,7 +198,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
-    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
+    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (similar to an internship).
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
