@@ -207,6 +207,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
     The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+    
+  - [Black Hoodie](https://www.blackhoodie.re/)
+
+    Blackhoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Reverse engineering is considered one of the more complex fields of computer science and comes with a steep learning curve that demotivates a lot of students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
   - [Chicas Poderosas](https://chicaspoderosas.org/home/)
 
