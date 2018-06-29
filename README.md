@@ -210,7 +210,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     
   - [BlackHoodie](https://www.blackhoodie.re/)
 
-    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Reverse engineering is considered one of the more complex fields of computer science and comes with a steep learning curve that demotivates a lot of students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
+    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
   - [Chicas Poderosas](https://chicaspoderosas.org/home/)
 
