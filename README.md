@@ -100,7 +100,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### R
 ([Go to top](#awesome4girls---))
 
-  - [R-Ladies](https://rladies.org/) 
+  - [R-Ladies](https://rladies.org/)
 
     R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
 
