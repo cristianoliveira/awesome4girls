@@ -95,6 +95,17 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We're an inclusive, global user-group providing a support network within the PHP community.
 
+
+### R
+([Go to top](#awesome4girls---))
+
+  - [R-Ladies](https://rladies.org/) 
+
+    R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
+
+  - [R-Ladies São Paulo - Brazil](https://www.meetup.com/R-Ladies-Sao-Paulo)- *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">)
+
+
 ### Ruby
 ([Go to top](#awesome4girls---))
 
