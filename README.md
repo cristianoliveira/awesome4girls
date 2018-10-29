@@ -65,6 +65,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
+  - [Js4Girls](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    A Brazilian initiative to provide free javascript classes to women in a male-free environment.
+
   - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     A group for women interested in web development and javascript with open and free meetings, workshops and talks.
@@ -125,9 +129,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
 
+  - [Anitas](http://anitas.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+
+    Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
+
   - [Bay Area Girls](http://girlgeek.io/about/)
 
-    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
+    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communities. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -143,9 +151,17 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
 
+  - [Czechitas](https://www.czechitas.cz/) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic" width="30">
+  
+    Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
+
   - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
 
     The Women in Tech Summit inspires, educates and connects women in the technology industry.
+
+  - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
+
+    Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
 
   - [League of Women Coders](http://lwc.tech/)
 
@@ -176,7 +192,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
 
-
 ## Initiatives/Programs
 ([Go to top](#awesome4girls---))
 
@@ -198,6 +213,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
     The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+    
+  - [BlackHoodie](https://www.blackhoodie.re/)
+
+    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
   - [Chicas Poderosas](https://chicaspoderosas.org/home/)
 
@@ -247,7 +266,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
-
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
 
@@ -290,6 +308,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
 
+  - [Female Founders Conference](http://www.femalefoundersconference.org/)
+
+    An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
+
   - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
 
     The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
@@ -321,6 +343,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [SWE](http://societyofwomenengineers.swe.org/)
 
     The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+
+  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
+
+    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
+    The purpose of the event is to take the fear factor out of technology and empower women.
+
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
 
   - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -366,6 +397,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
     Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+
+  - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
+
+    Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
 
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
@@ -458,6 +493,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Made with Code is an initiative launched by Google on 19 July 2014. Google's aim is to to empower young women in middle and high schools with computer programming skills. The website revolves around providing online activities for young girls to learn to code.
 
+  - [OxenTIMenina](http://oxentimenina.com.br)
+
+    They aim to connect girls and women with the opportunity to have experience and make technology no matter which social class they're come from, their knowlodge or anything that is considered a limitation.
+
   - [PrograMaria](http://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     PrograMaria is an initiative to involve more girls and women in the tech and programming area. The content production and events are produced under three pillars: Inspire, Discuss and Learn.
@@ -488,6 +527,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Jobs
 ([Go to top](#awesome4girls---))
 
+  - [Lane by Women 2.0](https://lane.women2.com/)
+
+    Lane is a hiring and job search platform created by Women 2.0. The focus is on women in tech and encouraging workplaces that care about making their companies more successful through inclusion.
+
   - [Outreach Program for Women](https://www.gnome.org/opw/)
 
     Outreach Program for Women has been helping women (cis and trans), trans men, and genderqueer people get involved in free and open source software. It provides a supportive community for beginning to contribute anytime throughout the year and offers focused internship opportunities twice a year with a number of free software organizations.
@@ -504,6 +547,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
+  - [Women who hack](http://www.womenwhohack.co/)
+
+    WomenHack is a community that empowers women in tech through events, jobs, and reviews and aims at creating a more inclusive and diverse workplace for all. Our diversity recruiting events targets some of the most talented women in tech from respective local communities.
+
 ### Organisation toolkits
 ([Go to top](#awesome4girls---))
 
@@ -515,6 +562,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ## Other Lists
 ([Go to top](#awesome4girls---))
+
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
+
+    A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 
   - [tech-gender-gap](https://github.com/apdaros/tech-gender-gap)
 

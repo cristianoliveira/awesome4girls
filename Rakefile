@@ -5,6 +5,11 @@ RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
 
+task :setup do
+  p "Installing misspell for common misspelling checks"
+  p `curl -L https://git.io/misspell | bash`
+end
+
 namespace :gen do
   desc "Generate an html version of this list"
   task :html do

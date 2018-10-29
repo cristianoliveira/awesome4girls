@@ -42,6 +42,18 @@ describe 'formatting the list' do
           expect(link_texts).to eq(link_texts.sort), project_sort_error(link_texts)
         end
       end
+
+      it 'must not have trailling spaces' do
+        list.projects.each_with_index do |project, i|
+          link_texts = project.css('li a').map {|a| a.children.text.downcase }
+
+          link_texts.each do |text|
+            expect(text).to eq(text.strip),
+              "Make sure your text editor is set to remove trailing whitespace. \n" +
+              "Text: #{text}"
+          end
+        end
+      end
     end
 
     context 'descriptions' do
@@ -52,6 +64,7 @@ describe 'formatting the list' do
             "Expected to have a paragraph (empty line) after the link for description."
 
           description = project.css('p').last.text
+          description = description.strip
 
           expect(description).to start_with(description[0].upcase),
             project_format_error(
@@ -67,10 +80,23 @@ describe 'formatting the list' do
             "Expected to have a paragraph (empty line) after the link for description."
 
           description = project.css('p').last.text
+          description = description.strip
 
           expect(description.chars.last).to eq('.'),
             project_format_error(
               project, "Description must end with a period."
+            )
+        end
+      end
+
+      it 'must not have trailling spaces' do
+        list.projects.css('li').each do |project|
+          description = project.css('p').last.text
+
+          expect(description).to eq(description.strip),
+            project_format_error(
+              project,
+              "Make sure your text editor is set to remove trailing whitespace."
             )
         end
       end
@@ -80,24 +106,29 @@ describe 'formatting the list' do
       list.projects.css('li').each do |project|
 
         blocks = project.css('p')
-
         expect(blocks.size).to eq(2),
-          must_have_error("a valid link and description", blocks)
+          must_have_error("a valid link and description", project)
 
         link  = blocks[0].css('a')
-        expect(link).to_not be_empty, must_have_error("a valid link", link)
+        expect(link).to_not be_empty,
+          must_have_error("a valid link", project)
 
         expect(blocks.last.text).to_not be_nil,
-          must_have_error("a paragraph for description", blocks.last)
+          must_have_error("a paragraph for description", project)
       end
     end
   end
 
   private
 
-  def must_have_error(message, item)
+  def must_have_error(message, html)
     "Each project must have #{message}. Looks like it doesn't have. \n" +
-      "Item: #{item} \n"+
+      "HTML: #{html}\n\n"+
+      "Make sure to follow the correct template: \n\n"+
+      "(2 spaces)-(link and title) \n"+
+      "(empty line)\n"+
+      "(4 spaces)(description)\n"+
+      "(empty line)\n\n"+
       "For more details see the CONTRIBUTING.md"
   end
 
