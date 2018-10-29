@@ -141,11 +141,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
-  - [Byte Hacks](http://bytehacks.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Byte Hacks](http://bytehacks.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     ByteHacks is a 24-hour hackathon on September 1st and 2nd at Thoughtworks NYC that encourages women of all ages and skillsets to form teams and create tech projects that have positive social impact.
 
-    The hackathon will have workshops, tech talks, mentors, sponsors, and free food! Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit!
+    The hackathon will have workshops, tech talks, mentors, sponsors, and free food! Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit.
 
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
