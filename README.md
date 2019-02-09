@@ -58,7 +58,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
-    We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
+    Golang based community for Women. (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
 ([Go to top](#awesome4girls---))
@@ -84,14 +84,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [NodeGirls](http://nodegirls.com/)
 
-    Inspired by the likes of Rails Girls and Django Girls, we run free, one-day workshops, where folk can learn to code in a friendly, non-intimidating environment.
+    NodeGirls provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
 
 ### Python
 ([Go to top](#awesome4girls---))
 
   - [Django Girls](https://djangogirls.org/)
 
-    We want to inspire women to fall in love with programming. We organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
+    Django girls aims to inspire women to fall in love with programming. They organize free Python and Django workshops, create open-source online tutorials and care about curating amazing first experiences with technology.
 
   - [PyLadies](http://www.pyladies.com/)
 
@@ -102,7 +102,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [PHPWomen](https://phpwomen.org/)
 
-    We're an inclusive, global user-group providing a support network within the PHP community.
+    An inclusive, global user-group providing a support network within the PHP community.
 
 ### Ruby
 ([Go to top](#awesome4girls---))
@@ -155,7 +155,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
 
   - [Czechitas](https://www.czechitas.cz/) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic" width="30">
-  
+
     Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
 
   - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
@@ -216,7 +216,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
     The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
-    
+
   - [BlackHoodie](https://www.blackhoodie.re/)
 
     BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
