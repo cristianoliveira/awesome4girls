@@ -6,6 +6,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Table of Contents
 * [Events/Meetups](#eventsmeetups)
   * [Clojure](#clojure)
+  * [Design](#design)
   * [Go-lang](#go-lang)
   * [Java](#java)
   * [Javascript](#javascript)
@@ -43,6 +44,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
+
+### Design
+([Go to top](#awesome4girls---))
+
+  - [Ladies Wine and Design](http://ladieswinedesign.com/)
+
+    Monthly salon night in over 200 cities for designers identifying as female with occasional crossover coding events.
+
 
 ### Go-lang
 ([Go to top](#awesome4girls---))
