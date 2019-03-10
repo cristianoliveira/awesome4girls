@@ -541,10 +541,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-  - [Women who hack](http://www.womenwhohack.co/)
-
-    WomenHack is a community that empowers women in tech through events, jobs, and reviews and aims at creating a more inclusive and diverse workplace for all. Our diversity recruiting events targets some of the most talented women in tech from respective local communities.
-
 ### Organisation toolkits
 ([Go to top](#awesome4girls---))
 
