@@ -122,14 +122,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### UX
 ([Go to top](#awesome4girls---))
 
-  - [Ladies that UX](http://ladiesthatux.com/)
-
-    Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
-
   - [Hexagon UX](https://hexagonux.com/)
 
     Hexagon aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first Hexagon UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
+
+  - [Ladies that UX](http://ladiesthatux.com/)
+
+    Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
 ## General
 ([Go to top](#awesome4girls---))
