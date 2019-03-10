@@ -73,9 +73,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A group for women interested in web development and javascript with open and free meetings, workshops and talks.
 
-  - [NodeGirls](http://nodegirls.io/)
+  - [NodeGirls](http://nodegirls.com/)
 
-    We aim to provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors. Node Girls runs free 1 day Node.js workshops.
+    Inspired by the likes of Rails Girls and Django Girls, we run free, one-day workshops, where folk can learn to code in a friendly, non-intimidating environment.
 
 ### Python
 ([Go to top](#awesome4girls---))
