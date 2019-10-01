@@ -117,7 +117,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
-    Getting more women into Open Source.
+     Rails Girls Summer of Code is a global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
 
 ### UX
 ([Go to top](#awesome4girls---))
