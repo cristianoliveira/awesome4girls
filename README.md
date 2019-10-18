@@ -6,11 +6,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## Table of Contents
 * [Events/Meetups](#eventsmeetups)
   * [Clojure](#clojure)
+  * [Design](#design)
   * [Go-lang](#go-lang)
   * [Java](#java)
   * [Javascript](#javascript)
   * [PHP](#php)
   * [Python](#python)
+  * [R](#r)
   * [Ruby](#ruby)
   * [UX](#ux)
 * [General](#general)
@@ -44,17 +46,25 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
+### Design
+([Go to top](#awesome4girls---))
+
+  - [Ladies Wine and Design](http://ladieswinedesign.com/)
+
+    Monthly salon night in over 200 cities for designers identifying as female with occasional crossover coding events.
+
+
 ### Go-lang
 ([Go to top](#awesome4girls---))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
-    We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
+    Golang based community for Women. (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
 ([Go to top](#awesome4girls---))
 
-  - [JDuchess](http://www.jduchess.org/)
+  - [JDuchess](https://www.facebook.com/jduchess.org/)
 
     Duchess is a global organization for women in Java technology with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
@@ -73,7 +83,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     A group for women interested in web development and javascript with open and free meetings, workshops and talks.
 
-  - [NodeGirls](http://nodegirls.io/)
+  - [NodeGirls](https://nodegirls.com/)
 
     Node Girls runs free 1 day Node.js workshops. They provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors.
 
@@ -95,6 +105,15 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     An inclusive, global user-group providing a support network within the PHP community.
 
+### R
+([Go to top](#awesome4girls---))
+
+  - [R-Ladies](https://rladies.org/)
+
+    R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
+
+  - [R-Ladies São Paulo - Brazil](https://www.meetup.com/R-Ladies-Sao-Paulo)- *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">)
+
 ### Ruby
 ([Go to top](#awesome4girls---))
 
@@ -108,19 +127,20 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [RailsGirls Summer of Code](http://railsgirlssummerofcode.org/)
 
-    Getting more women into Open Source.
+     Rails Girls Summer of Code is a global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
 
 ### UX
 ([Go to top](#awesome4girls---))
 
+  - [Hexagon UX](https://hexagonux.com/)
+
+    Hexagon aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
+    The first Hexagon UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
+
   - [Ladies that UX](http://ladiesthatux.com/)
 
     Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
-
-  - [XX-UX](http://www.xxux.org/)
-
-    XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
-    The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ## General
 ([Go to top](#awesome4girls---))
@@ -141,12 +161,17 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
 
+  - [Byte Hacks](http://bytehacks.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    ByteHacks is a 24-hour hackathon on September 1st and 2nd at Thoughtworks NYC that encourages women of all ages and skillsets to form teams and create tech projects that have positive social impact.
+    The hackathon will have workshops, tech talks, mentors, sponsors, and free food. Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit.
+
   - [Code Girl](http://www.codegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Code Girl is an event featuring motivational talks about overcoming challenges faced by women who work in the technology industry. The event features female speakers who aim to inspire women in the industry.
 
   - [Czechitas](https://www.czechitas.cz/) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic" width="30">
-  
+
     Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
 
   - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
@@ -156,6 +181,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
+
+  - [Girls4Tech](https://girls4tech.ebanx.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    Girls 4 Tech is an online programming course, totally free and made by women. The language is accessible, does not require previous knowledge and is open for everyone.
 
   - [League of Women Coders](http://lwc.tech/)
 
@@ -207,6 +236,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Black Girls Code](http://www.blackgirlscode.com/)
 
     The focus of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+
+  - [BlackHoodie](https://www.blackhoodie.re/)
+
+    BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
   - [Chicas Poderosas](https://chicaspoderosas.org/home/)
 
@@ -536,10 +569,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women in Tech](http://www.womenintechnology.co.uk/)
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
-
-  - [Women who hack](http://www.womenwhohack.co/)
-
-    WomenHack is a community that empowers women in tech through events, jobs, and reviews and aims at creating a more inclusive and diverse workplace for all. Our diversity recruiting events targets some of the most talented women in tech from respective local communities.
 
 ### Organisation toolkits
 ([Go to top](#awesome4girls---))
