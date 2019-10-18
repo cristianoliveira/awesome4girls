@@ -209,7 +209,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
+    Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
