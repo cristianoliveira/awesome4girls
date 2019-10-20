@@ -101,7 +101,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### PHP
 ([Go to top](#awesome4girls---))
 
-  - [PHPWomen](https://phpwomen.org/)
+  - [PHPWomen](https://twitter.com/phpwomen)
 
     An inclusive, global user-group providing a support network within the PHP community.
 
@@ -113,6 +113,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
 
   - [R-Ladies São Paulo - Brazil](https://www.meetup.com/R-Ladies-Sao-Paulo)- *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">)
+  
+    R-Ladies São Paulo is the specific group of R-Ladies in São Paulo area.
 
 ### Ruby
 ([Go to top](#awesome4girls---))
@@ -467,7 +469,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
 
-  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  - [Mothership HackerMoms](https://hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
 
@@ -492,7 +494,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
 
-  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+  - [Mulheres Palestrantes](https://github.com/darlenedms/mulheres-palestrantes) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
