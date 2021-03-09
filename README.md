@@ -149,6 +149,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
 
+  - [AnitaB.org](https://anitab.org/)
+    
+    AnitaB.org is a social enterprise founded by Anita Borg that supports women in technical fields, as well as the organisations that employ them and the academic institutions training the next generation. Their GitHub projects are very beginner friendly for anyone interested in getting started on open source projects (lots of first timer issues).
+
   - [Anitas](http://anitas.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
     Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
@@ -225,6 +229,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   Projects that have any kind of Academy/Summer Camp in its activities.
 
+  - [ACM-W](https://women.acm.org/)
+
+    The Association for Computing Machinery's Women in Computing Program supports, celebrates, and advocates internationally for the full engagement of women in all aspects of the computing field, providing a wide range of programs and services to ACM members and working in the larger community to advance the contributions of technical women.
+
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
     A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (similar to an internship).
@@ -269,6 +277,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
 
+  - [Girls Teaching Girls to Code](https://www.girlsteachinggirlstocode.org/)
+    
+    Girls Teaching Girls to Code is a program that connects women pursuing Computer Science and Engineering degrees with high school girls who want to learn and apply their new skills to CS-related projects. GTC has an immersive annual Code Camp as well as smaller events like workshops and office tours throughout the year. 
+
   - [Girls Who Code](http://girlswhocode.com/)
 
     We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
@@ -288,6 +300,14 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+
+  - [Women in Computer Science](http://web.stanford.edu/group/wics/)
+
+    WICS is a Stanford University student organization that promotes and supports women in CS and technology through networking and professionalization events. They have industry sponsorship from companies like Google, Oracle, and Facebook. The WICS website also regularly updates a list of events, conferences, and scholarships for both undergraduate and graduate students (including non-Stanford affiliated students). 
+  
+  - [Women’s Technology Program at MIT](http://wtp.mit.edu/)
+
+    The Women's Technology Program at MIT is a a four-week summer program that introduces high school seniors to engineering and computer science. The program is aimed at empowering students from historically underrepresented and underserved communities as well as those who will be the first in their family to attend college. 
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
@@ -413,9 +433,29 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   Online communities and groups.
 
+  - [AspireIT](https://www.aspirations.org/aspireit)
+
+    AspireIT is a National Center for Women and Information Technology education program and network for K-12 girls. The program connects nearly 700 programming and computer science organizations in schools in 45 US states, DC, the US Virgin Islands and Puerto Rico. AspireIT also offers student awards and local program development support for educators. 
+
+  - [Association for Women in Science](https://www.awis.org/)
+    
+    AWIS is a global network that inspires bold leadership, research, and solutions that advance women in STEM, spark innovation, promote organizational success and drive systemic change. In addition to their networking and career growth support they publish a magazine, offer scholarships and grants, and host events. 
+
+  - [Built by Girls](https://www.builtbygirls.com/)
+
+    Built by Girls is an early career community supporting women and non-binary tech professionals. The group maintains a calendar of workshops, panels, office tours and networking events. The WAVE mentorship program matches participants with a different industry professional as an advisor every three months. 
+
+  - [Chicago WomenTech](https://www.meetup.com/Chicago-WomenTech/)
+    
+    Chicago WomenTech is a Meetup group with over 4500 members for women in tech to collaborate and network in the Chicago area. 
+
   - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
 
     An enthusiastic group of ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regularly every two weeks. Everyone is welcome.
+
+  - [Codess](https://www.codess.net/)
+    
+    Codess is an international community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field. They offer networking events and mentorship opportunities for women in tech. 
 
   - [Lambda Ladies](http://www.lambdaladies.com/)
 
@@ -424,6 +464,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
 
     Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
+
+  - [San Francisco Women in Tech](https://www.meetup.com/SanFranciscoWomenandDiversityInTech/)
+    
+    San Francisco Women in Tech is a Meetup group with over 3200 members for women in San Francisco and Silicon Valley to network and learn about new technologies and opportunities in a context that values diversity in the industry. 
 
   - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
 
