@@ -178,10 +178,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
 
-  - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
-
-    The Women in Tech Summit inspires, educates and connects women in the technology industry.
-
   - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
@@ -407,10 +403,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
-
-  - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
-
-    The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
 
   - [Women in Tech Summit Series](http://womenintechsummit.net/)
 
