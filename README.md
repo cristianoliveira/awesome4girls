@@ -21,15 +21,16 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Chatrooms](#chatrooms)
   * [Communities/Groups](#communitiesgroups)
   * [Conferences/Talks](#conferencestalks)
+  * [Hackerspace/Makerspace](#hackerspace/makerspace)
   * [Linux/OpenSource](#linuxopensource)
   * [Mentorship](#mentorship)
-* [Organisation toolkits](#organisation-toolkits)
 * [Other Initiatives](#other-initiatives)
   * [Awards](#awards)
   * [Content](#content)
   * [Documentaries/Movies](#documentariesmovies)
   * [Jobs](#jobs)
   * [Speakers](#speakers)
+* [Organisation toolkits](#organisation-toolkits)
 * [Other Lists](#other-lists)
 
 ----
@@ -87,6 +88,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Node Girls runs free 1 day Node.js workshops. They provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors.
 
+### PHP
+([Go to top](#awesome4girls---))
+
+  - [PHPWomen](https://phpwomen.org/)
+
+    An inclusive, global user-group providing a support network within the PHP community.
+
 ### Python
 ([Go to top](#awesome4girls---))
 
@@ -97,13 +105,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [PyLadies](http://www.pyladies.com/)
 
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
-
-### PHP
-([Go to top](#awesome4girls---))
-
-  - [PHPWomen](https://phpwomen.org/)
-
-    An inclusive, global user-group providing a support network within the PHP community.
 
 ### R
 ([Go to top](#awesome4girls---))
@@ -177,10 +178,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Czechitas](https://www.czechitas.cz/) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" alt="Czech Republic" width="30">
 
     Czechitas is a nonprofit organization based in the Czech Republic which organizes events, courses, and summer camps to help women, girls and children to explore the world of IT. The events cover topics from programming, web development, graphic design, digital marketing, and data analytics.
-
-  - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
-
-    The Women in Tech Summit inspires, educates and connects women in the technology industry.
 
   - [Geek Girls Carrots](http://gocarrots.org) – *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/1280px-Flag_of_Poland_%28normative%29.svg.png" alt="Poland" width="30">
 
@@ -309,124 +306,18 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women's Technology Program at MIT is a a four-week summer program that introduces high school seniors to engineering and computer science. The program is aimed at empowering students from historically underrepresented and underserved communities as well as those who will be the first in their family to attend college. 
 
-### Linux/OpenSource
+### Chatrooms
 ([Go to top](#awesome4girls---))
 
-  Projects where an open source organization is behind it.
+  Online chatrooms such as slack teams, gitter, IRC etc.
 
-  - [Debian Women](https://www.debian.org/women/)
+  - [Systers](https://anitab.org/systers/)
 
-    The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
+    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
 
-  - [Fedora Women](https://fedoraproject.org/wiki/Women)
+  - [Women in Tech](http://witchat.github.io/)
 
-    Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
-
-  - [KDE Women](https://community.kde.org/KDE_Women)
-
-    KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
-
-  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
-
-    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute.
-
-  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
-
-    The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
-
-### Conferences/Talks
-([Go to top](#awesome4girls---))
-
-  Conferences that bring the subject.
-
-  - [AlterConf](https://alterconf.com/)
-
-     AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
-
-  - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
-
-    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
-
-  - [European Women In Technology](http://www.europeanwomenintech.com)
-
-    A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
-
-  - [Female Founders Conference](http://www.femalefoundersconference.org/)
-
-    An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
-
-  - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
-
-    The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
-
-  - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
-
-    This annual free event is the only conference for women in technology held around the globe offering complete access for everyone to attend and to participate physically or virtually removing all barriers to participation. Representatives present individually and collectively to discuss, collaborate and celebrate the contributions of technical women.
-
-  - [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org)
-
-    The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
-
-  - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
-
-    The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
-
-  - [Lesbians Who Tech](http://lesbianswhotech.org//)
-
-    Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
-
-  - [She's Geeky](http://shesgeeky.org/)
-
-    The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
-
-  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
-
-    A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
-
-  - [SWE](http://societyofwomenengineers.swe.org/)
-
-    The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
-
-  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
-
-    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
-    The purpose of the event is to take the fear factor out of technology and empower women.
-
-  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
-
-  - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
-
-  - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
-
-  - [WITI](http://www.witi.com/)
-
-    WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
-
-  - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
-
-    The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
-
-  - [Women in Tech Summit Series](http://womenintechsummit.net/)
-
-    The Women in Tech Summit is a series of events that inspire, educate and connect women in the technology industry, from every level from students to senior executives. Events are held in Denver, Philadelphia, Raleigh-Durham, and Washington, D.C.
-
-  - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
-
-  - [Women Who Tech](http://womenwhotech.com/)
-
-    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-
-  - [Write/Speak/Code](http://www.writespeakcode.com/)
-
-    Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
+    A safe, confidential space for women who work in technology to chat and support each other.
 
 ### Communities/Groups
 ([Go to top](#awesome4girls---))
@@ -473,18 +364,134 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
-### Chatrooms
+### Conferences/Talks
 ([Go to top](#awesome4girls---))
 
-  Online chatrooms such as slack teams, gitter, IRC etc.
+  Conferences that bring the subject.
 
-  - [Systers](https://anitab.org/systers/)
+  - [AlterConf](https://alterconf.com/)
 
-    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
+     AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 
-  - [Women in Tech](http://witchat.github.io/)
+  - [Ela Conf](http://elaconf.com) *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="30" />
 
-    A safe, confidential space for women who work in technology to chat and support each other.
+    A safe, inclusive tech leadership conference and community for adult (18+) women (cis and trans), trans men, and genderqueer people to connect with and empower one another.
+
+  - [European Women In Technology](http://www.europeanwomenintech.com)
+
+    A conference to inspire and connect women working in the tech industry. It offers interactive panels and deep-dive workshops, delivered by industry pioneers. Both men and women can attend to discuss issues relating to women in tech leadership, female founders, bridging the gender gap, non-technical women in tech and inspiring future generations of girls into the sector.
+
+  - [Female Founders Conference](http://www.femalefoundersconference.org/)
+
+    An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
+
+  - [Girls in Tech Catalyst Conference](http://catalystsf.girlsintech.org/)
+
+    The highlight of Girls in Tech Catalyst is inspiring keynotes from female leaders. The conference also offers attendees authentic networking opportunities, a platform to exchange ideas and connect with other inspiring women. We’ll be layering in meaningful workshops and evening fun, including a kick-off cocktail party.
+
+  - [Global Tech Women's Annual Voices Conference](http://www.globaltechwomen.com/voices-global-conference.html/)
+
+    This annual free event is the only conference for women in technology held around the globe offering complete access for everyone to attend and to participate physically or virtually removing all barriers to participation. Representatives present individually and collectively to discuss, collaborate and celebrate the contributions of technical women.
+
+  - [Grace Hopper Celebration of Women in Computing](https://ghc.anitab.org/)
+
+    The Grace Hopper Celebration of Women in Computing is the world's largest gathering of women technologists. It is produced by the Anita Borg Institute and presented in partnership with ACM.
+
+  - [Johnson Women in Technology Conference](http://www.johnsonwomenintech.com)
+
+    The Johnson Women in Technology Conference (JWiT) is organized by the students of the Johnson Graduate School of Management at Cornell University. Designed to attract students and professionals alike, the event features engrossing panel discussions, valuable networking events, a pre-revenue pitch competition and more.
+
+  - [Lesbians Who Tech](http://lesbianswhotech.org//)
+
+    Lesbians Who Tech is a Community of Queer Women in or around tech (and the people who love them).
+
+  - [She's Geeky](http://shesgeeky.org/)
+
+    The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
+
+  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
+
+    A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
+
+  - [SWE](http://societyofwomenengineers.swe.org/)
+
+    The Society of Women Engineers (SWE) is a not-for-profit educational and service organization that empowers women to succeed and advance in the field of engineering and to be recognized for their life-changing contributions as engineers and leaders. It promotes the annual conference for women engineers.
+
+  - [Tech Up for Women](https://corporatelearninghub.com/techupforwomen/)
+
+    Tech Up for Women is a one-day event for the advancement of women in technology through education, resourcing and networking.  The event will focus on new technological advances, cyber security and different financing avenues for startups and privately held companies. This event will provide resources and opportunities for women to improve their digital literacy and successfully compete and disrupt gender imbalance in work environments.
+    The purpose of the event is to take the fear factor out of technology and empower women.
+
+  - [Watermark Conference for Women](http://www.watermarkconferenceforwomen.org) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    The mission of the Conference for Women is to promote, communicate and amplify the influence of women in the workplace and beyond. At the annual nonpartisan, nonprofit conferences, it brings together thousands of active professionals to connect, renew, and find inspiration in the community.
+
+  - [We RISE](https://werise.tech/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    We RISE is all about growing and showcasing women in technology. For two days, We RISE features women and allies doing amazing work from all over the world.
+
+  - [WECode](http://www.wecodeharvard.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    WECode is "the largest student-run Women in Computer Science conference, held at Harvard University each February. Our mission is to expand the skills, network, and community of technical women worldwide. We bring together women over the course of two amazing days to share ideas and conversations on technology and innovation." Live at https://live.cs50.net/wecode on February 27 and February 28.
+
+  - [WITI](http://www.witi.com/)
+
+    WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+
+  - [Women in Tech Summit Series](http://womenintechsummit.net/)
+
+    The Women in Tech Summit is a series of events that inspire, educate and connect women in the technology industry, from every level from students to senior executives. Events are held in Denver, Philadelphia, Raleigh-Durham, and Washington, D.C.
+
+  - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
+
+  - [Women Who Tech](http://womenwhotech.com/)
+
+    Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+
+  - [Write/Speak/Code](http://www.writespeakcode.com/)
+
+    Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
+
+### Hackerspace/Makerspace
+([Go to top](#awesome4girls---))
+
+  Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
+
+
+  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
+
+  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+
+    It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
+  
+### Linux/OpenSource
+([Go to top](#awesome4girls---))
+
+  Projects where an open source organization is behind it.
+
+  - [Debian Women](https://www.debian.org/women/)
+
+    The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
+
+  - [Fedora Women](https://fedoraproject.org/wiki/Women)
+
+    Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
+
+  - [KDE Women](https://community.kde.org/KDE_Women)
+
+    KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+
+  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
+
+    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute.
+
+  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
+
+    The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
 ### Mentorship
 ([Go to top](#awesome4girls---))
@@ -503,18 +510,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
 
-### Hackerspace/Makerspace
-  Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
-
-
-  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
-
-  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
-
 ## Other Initiatives
 ([Go to top](#awesome4girls---))
 
@@ -528,18 +523,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [The Ada Awards](http://adaawards.com/)
 
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
-
-### Speakers
-([Go to top](#awesome4girls---))
-
-  - [CallbackWomen](http://www.callbackwomen.com/)
-
-    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
-
-  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-
-    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
-    Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
 ### Content
 ([Go to top](#awesome4girls---))
@@ -614,7 +597,19 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-### Organisation toolkits
+### Speakers
+([Go to top](#awesome4girls---))
+
+  - [CallbackWomen](http://www.callbackwomen.com/)
+
+    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
+
+  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
+    Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
+
+## Organisation toolkits
 ([Go to top](#awesome4girls---))
 
   If you are trying to organize your own events, these resoures might help.
