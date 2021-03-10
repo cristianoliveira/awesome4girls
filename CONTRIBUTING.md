@@ -10,10 +10,10 @@ Please ensure your pull request adheres to the following guidelines (it is enfor
 ### About Content
 
   - Search previous suggestions before making a new one, as yours may be a duplicate.
-  - Make sure that your list is useful before submitting which implies that it has enough content and every item has a good description.
+  - Make sure that your list is useful before submitting, which implies that it has enough content and every item has a good description.
   - A link back to this list from yours, so that the users can discover more lists, would be appreciated.
   - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-  - The titles must be sorted alphabetically to make easy for searching.
+  - The titles must be sorted alphabetically to make searching easier.
   - Use the following template:
 
 ```
@@ -23,7 +23,7 @@ Please ensure your pull request adheres to the following guidelines (it is enfor
 (empty line)
 ```
 
-If it is not an international event/organization (no english version site) use:
+If it is an international event/organization (there is no English version site) use:
 
 ```
   - [Name](link) *Loc* <country flag from wikipedia>
@@ -59,4 +59,4 @@ rake setup && rake
 
 Feel free to suggest changes or add more specs.
 
-And finally, Thank so much! for your contribution!!
+And finally, thank so much for your contribution!!
