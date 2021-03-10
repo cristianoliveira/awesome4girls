@@ -21,15 +21,16 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Chatrooms](#chatrooms)
   * [Communities/Groups](#communitiesgroups)
   * [Conferences/Talks](#conferencestalks)
+  * [Hackerspace/Makerspace](#hackerspace/makerspace)
   * [Linux/OpenSource](#linuxopensource)
   * [Mentorship](#mentorship)
-* [Organisation toolkits](#organisation-toolkits)
 * [Other Initiatives](#other-initiatives)
   * [Awards](#awards)
   * [Content](#content)
   * [Documentaries/Movies](#documentariesmovies)
   * [Jobs](#jobs)
   * [Speakers](#speakers)
+* [Organisation toolkits](#organisation-toolkits)
 * [Other Lists](#other-lists)
 
 ----
@@ -87,6 +88,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Node Girls runs free 1 day Node.js workshops. They provide a friendly environment for women who are learning to code, supported by a community of experienced female mentors.
 
+### PHP
+([Go to top](#awesome4girls---))
+
+  - [PHPWomen](https://phpwomen.org/)
+
+    An inclusive, global user-group providing a support network within the PHP community.
+
 ### Python
 ([Go to top](#awesome4girls---))
 
@@ -97,13 +105,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [PyLadies](http://www.pyladies.com/)
 
     An international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community.
-
-### PHP
-([Go to top](#awesome4girls---))
-
-  - [PHPWomen](https://phpwomen.org/)
-
-    An inclusive, global user-group providing a support network within the PHP community.
 
 ### R
 ([Go to top](#awesome4girls---))
@@ -305,30 +306,63 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The Women's Technology Program at MIT is a a four-week summer program that introduces high school seniors to engineering and computer science. The program is aimed at empowering students from historically underrepresented and underserved communities as well as those who will be the first in their family to attend college. 
 
-### Linux/OpenSource
+### Chatrooms
 ([Go to top](#awesome4girls---))
 
-  Projects where an open source organization is behind it.
+  Online chatrooms such as slack teams, gitter, IRC etc.
 
-  - [Debian Women](https://www.debian.org/women/)
+  - [Systers](https://anitab.org/systers/)
 
-    The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
+    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
 
-  - [Fedora Women](https://fedoraproject.org/wiki/Women)
+  - [Women in Tech](http://witchat.github.io/)
 
-    Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
+    A safe, confidential space for women who work in technology to chat and support each other.
 
-  - [KDE Women](https://community.kde.org/KDE_Women)
+### Communities/Groups
+([Go to top](#awesome4girls---))
 
-    KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+  Online communities and groups.
 
-  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
+  - [AspireIT](https://www.aspirations.org/aspireit)
 
-    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute.
+    AspireIT is a National Center for Women and Information Technology education program and network for K-12 girls. The program connects nearly 700 programming and computer science organizations in schools in 45 US states, DC, the US Virgin Islands and Puerto Rico. AspireIT also offers student awards and local program development support for educators. 
 
-  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
+  - [Association for Women in Science](https://www.awis.org/)
+    
+    AWIS is a global network that inspires bold leadership, research, and solutions that advance women in STEM, spark innovation, promote organizational success and drive systemic change. In addition to their networking and career growth support they publish a magazine, offer scholarships and grants, and host events. 
 
-    The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
+  - [Built by Girls](https://www.builtbygirls.com/)
+
+    Built by Girls is an early career community supporting women and non-binary tech professionals. The group maintains a calendar of workshops, panels, office tours and networking events. The WAVE mentorship program matches participants with a different industry professional as an advisor every three months. 
+
+  - [Chicago WomenTech](https://www.meetup.com/Chicago-WomenTech/)
+    
+    Chicago WomenTech is a Meetup group with over 4500 members for women in tech to collaborate and network in the Chicago area. 
+
+  - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
+
+    An enthusiastic group of ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regularly every two weeks. Everyone is welcome.
+
+  - [Codess](https://www.codess.net/)
+    
+    Codess is an international community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field. They offer networking events and mentorship opportunities for women in tech. 
+
+  - [Lambda Ladies](http://www.lambdaladies.com/)
+
+    Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
+
+  - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
+
+    Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
+
+  - [San Francisco Women in Tech](https://www.meetup.com/SanFranciscoWomenandDiversityInTech/)
+    
+    San Francisco Women in Tech is a Meetup group with over 3200 members for women in San Francisco and Silicon Valley to network and learn about new technologies and opportunities in a context that values diversity in the industry. 
+
+  - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
+
+    Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
 ### Conferences/Talks
 ([Go to top](#awesome4girls---))
@@ -420,63 +454,44 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
-### Communities/Groups
+### Hackerspace/Makerspace
 ([Go to top](#awesome4girls---))
 
-  Online communities and groups.
+  Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
 
-  - [AspireIT](https://www.aspirations.org/aspireit)
 
-    AspireIT is a National Center for Women and Information Technology education program and network for K-12 girls. The program connects nearly 700 programming and computer science organizations in schools in 45 US states, DC, the US Virgin Islands and Puerto Rico. AspireIT also offers student awards and local program development support for educators. 
+  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-  - [Association for Women in Science](https://www.awis.org/)
-    
-    AWIS is a global network that inspires bold leadership, research, and solutions that advance women in STEM, spark innovation, promote organizational success and drive systemic change. In addition to their networking and career growth support they publish a magazine, offer scholarships and grants, and host events. 
+    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
 
-  - [Built by Girls](https://www.builtbygirls.com/)
+  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
-    Built by Girls is an early career community supporting women and non-binary tech professionals. The group maintains a calendar of workshops, panels, office tours and networking events. The WAVE mentorship program matches participants with a different industry professional as an advisor every three months. 
-
-  - [Chicago WomenTech](https://www.meetup.com/Chicago-WomenTech/)
-    
-    Chicago WomenTech is a Meetup group with over 4500 members for women in tech to collaborate and network in the Chicago area. 
-
-  - [Code Girls](http://codegirls.de/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="Germany" width="30"> - *Lang: Deutsch Only*
-
-    An enthusiastic group of ladies with a focus on web-technologies who want to learn to code, need support in coding, or simply want to understand how the web is made. They meet regularly every two weeks. Everyone is welcome.
-
-  - [Codess](https://www.codess.net/)
-    
-    Codess is an international community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field. They offer networking events and mentorship opportunities for women in tech. 
-
-  - [Lambda Ladies](http://www.lambdaladies.com/)
-
-    Lambda Ladies is an online community for anyone who identifies as a girl or woman and is interested in functional programming. Complete beginners are welcome.
-
-  - [Oracle Women in Technology](https://community.oracle.com/groups/otn-women-in-technology/overview)
-
-    Oracle WIT Community Group - a place to share experiences and mentor women in high tech roles. They share knowledge and technical resources and engage with other women throughout the Oracle technical community.
-
-  - [San Francisco Women in Tech](https://www.meetup.com/SanFranciscoWomenandDiversityInTech/)
-    
-    San Francisco Women in Tech is a Meetup group with over 3200 members for women in San Francisco and Silicon Valley to network and learn about new technologies and opportunities in a context that values diversity in the industry. 
-
-  - [Women Hack For Non-Profits (WHFNP)](http://www.womenhackfornonprofits.com/)
-
-    Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
-
-### Chatrooms
+    It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
+  
+### Linux/OpenSource
 ([Go to top](#awesome4girls---))
 
-  Online chatrooms such as slack teams, gitter, IRC etc.
+  Projects where an open source organization is behind it.
 
-  - [Systers](https://anitab.org/systers/)
+  - [Debian Women](https://www.debian.org/women/)
 
-    A community of Anita Borg Institute members. It provides a space to discuss and contribute towards Open Source projects, participate in events and discuss any aspect of technology.
+    The Debian Women project was founded in May 2004. We seek to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.
 
-  - [Women in Tech](http://witchat.github.io/)
+  - [Fedora Women](https://fedoraproject.org/wiki/Women)
 
-    A safe, confidential space for women who work in technology to chat and support each other.
+    Fedora Women is a project designed to connect and assist women who are interested in using and contributing to Fedora.
+
+  - [KDE Women](https://community.kde.org/KDE_Women)
+
+    KDE Women is a group of women in the KDE community. We are here to help increase the number of women in Open Source and to support each other.
+
+  - [Linux Chix](https://en.wikipedia.org/wiki/LinuxChix)
+
+    It is a women-oriented Linux community. It is designed to provide both technical and social support for women Linux users, although men are encouraged to help and contribute.
+
+  - [Ubuntu Women](http://wiki.ubuntu-women.org/)
+
+    The Ubuntu Women Project was founded in 2006 and aims to foster Women contributors and community involvement through mentoring and inspiration. The Ubuntu Women Team has many projects with which we attempt to boost the visibility of women within all areas of Ubuntu, and we invite you to help out.
 
 ### Mentorship
 ([Go to top](#awesome4girls---))
@@ -495,18 +510,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
 
-### Hackerspace/Makerspace
-  Collaboratives Spaces with hacker/maker culture for facility making, learning, exploring and sharing knowledge.
-
-
-  - [Maria Lab](https://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    It is a hackerspace/makerspace and is focused to teach and spread and technology with women's empowerment in a safety environment. Maria Lab promote diversity and union of the womens.
-
-  - [Mothership HackerMoms](https://mothership.hackermoms.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
-
-    It was the first all-women hackerspace, this space is located in Berkeley and have the goal to explore the culture hacker/maker and learn about entrepreneurship, design, DIY crafts all of that in hands-on workshops. Those workshops could be towards for moms of every gender or for the kids.
-
 ## Other Initiatives
 ([Go to top](#awesome4girls---))
 
@@ -520,18 +523,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [The Ada Awards](http://adaawards.com/)
 
     The Ada Awards are an initiative of the Digital Leadership Institute, a Brussels-based international NGO with a mission to bridge the gender gap and digital divide worldwide. The Awards aim to recognize outstanding girls and women in tech, and the organizations who support them in Europe, Africa and beyond.
-
-### Speakers
-([Go to top](#awesome4girls---))
-
-  - [CallbackWomen](http://www.callbackwomen.com/)
-
-    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
-
-  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-
-    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
-    Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
 ### Content
 ([Go to top](#awesome4girls---))
@@ -606,7 +597,19 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women in Technology is a commercial organization committed to assisting suitably qualified and experienced women in their search for career opportunities in information technology.
 
-### Organisation toolkits
+### Speakers
+([Go to top](#awesome4girls---))
+
+  - [CallbackWomen](http://www.callbackwomen.com/)
+
+    The mission of CallbackWomen is to radically expand gender diversity at the podium of professional programmers' conferences. Call for proposals (CFPs) are shared via Twitter: https://twitter.com/callbackwomen.
+
+  - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
+    Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
+
+## Organisation toolkits
 ([Go to top](#awesome4girls---))
 
   If you are trying to organize your own events, these resoures might help.
