@@ -367,7 +367,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Conferences/Talks
 ([Go to top](#awesome4girls---))
 
-  Conferences that bring the subject.
+  Conferences featuring talks, workshops, networking and other events.
+
+  - [ACT-W](https://act-w.org/)
+
+    Presented by ChickTech, ACT-W: Advancing the Careers of Technical Womxn is an action-packed conference where talented womxn and allies can build skills, grow their communities, and accelarate their career paths. All proceeds from the conference go towards ChickTech's programs providing local high school young womxn with STEM education and spreading ChickTech's reach to create a culture of inclusion for all. 
 
   - [AlterConf](https://alterconf.com/)
 
