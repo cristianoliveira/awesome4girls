@@ -581,6 +581,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ### Jobs
 ([Go to top](#awesome4girls---))
 
+  - [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/)
+
+    A free daily-updated Canadian student and recent-graduate jobs board for software engineering internships, co-ops, new grad, junior, and entry-level roles, with related field pages for data, finance, engineering, business, and sciences.
+
   - [Lane by Women 2.0](https://lane.women2.com/)
 
     Lane is a hiring and job search platform created by Women 2.0. The focus is on women in tech and encouraging workplaces that care about making their companies more successful through inclusion.
