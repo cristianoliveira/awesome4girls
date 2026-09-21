@@ -21,7 +21,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   * [Chatrooms](#chatrooms)
   * [Communities/Groups](#communitiesgroups)
   * [Conferences/Talks](#conferencestalks)
-  * [Hackerspace/Makerspace](#hackerspace/makerspace)
+  * [Hackerspace/Makerspace](#hackerspacemakerspace)
   * [Linux/OpenSource](#linuxopensource)
   * [Mentorship](#mentorship)
 * [Other Initiatives](#other-initiatives)
